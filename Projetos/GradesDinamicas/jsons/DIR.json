@@ -1,0 +1,1437 @@
+[
+    {
+        "codigo": "CSO113",
+        "nome": "INTRODUCAO A SOCIOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR101",
+        "nome": "INTRODUCAO AO ESTUDO DO DIREITO I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR103",
+        "nome": "CIENCIA POLITICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR111",
+        "nome": "DIREITO CIVIL – PARTE GERAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR135",
+        "nome": "HISTORIA NO DIREITO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIL110",
+        "nome": "FILOSOFIA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "PRO120",
+        "nome": "ECONOMIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR012",
+        "nome": "DIREITO CIVIL – PARTE GERAL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR101",
+            "DIR111"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR102",
+        "nome": "INTRODUCAO AO ESTUDO DO DIREITO II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR101"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR104",
+        "nome": "FILOSOFIA DO DIREITO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIL110"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR105",
+        "nome": "SOCIOLOGIA JURIDICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSO113"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR121",
+        "nome": "TEORIA DA CONSTITUICAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR101",
+            "DIR103"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR123",
+        "nome": "DIREITOS HUMANOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR124",
+        "nome": "METODOLOGIA DA PESQUISA E DA EXTENSAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR004",
+        "nome": "TEORIA GERAL DO PROCESSO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR102"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR005",
+        "nome": "ETICA PROFISSIONAL E ESTATUTO DA OAB",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR102"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR006",
+        "nome": "DIREITO DO CONSUMIDOR",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR012"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR031",
+        "nome": "DIREITO PENAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR102"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR106",
+        "nome": "MEDIACAO E OUTRAS FORMAS CONSENSUAIS DE RESOLUCAO DE CONFLITOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR113",
+        "nome": "DIREITO CIVIL - OBRIGACOES I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR012"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR122",
+        "nome": "DIREITO CONSTITUCIONAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR121"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR014",
+        "nome": "DIREITO CIVIL – OBRIGACOES II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR113"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR023",
+        "nome": "DIREITO CONSTITUCIONAL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR032",
+        "nome": "DIREITO PENAL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR031"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR107",
+        "nome": "DIREITO EMPRESARIAL I – TEORIA GERAL E PROPRIEDADE INDUSTRIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR012"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR256",
+        "nome": "DIREITO PROCESSUAL CIVIL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR004"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR033",
+        "nome": "DIREITO PENAL III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR032"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR108",
+        "nome": "DIREITO EMPRESARIAL II – DIREITO SOCIETARIO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR107"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR115",
+        "nome": "DIREITO CIVIL - CONTRATOS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR113"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR127",
+        "nome": "DIREITO ADMINISTRATIVO I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR023"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR257",
+        "nome": "DIREITO PROCESSUAL CIVIL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR256"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR034",
+        "nome": "DIREITO PENAL IV",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR033"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR116",
+        "nome": "DIREITO EMPRESARIAL III – DIREITO OBRIGACIONAL ESPECIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR108"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR117",
+        "nome": "DIREITO CIVIL - POSSE E PROPRIEDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR115"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR118",
+        "nome": "DIREITO CIVIL - CONTRATOS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR115"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR128",
+        "nome": "DIREITO ADMINISTRATIVO II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR127"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR258",
+        "nome": "DIREITO PROCESSUAL CIVIL III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR257"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR119",
+        "nome": "DIREITOS REAIS LIMITADOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR117"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR129",
+        "nome": "DIREITO ADMINISTRATIVO III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR128"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR130",
+        "nome": "EMPRESARIAL IV – FALENCIA E RECUPERACAO DE EMPRESAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR116"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR136",
+        "nome": "PRATICA SIMULADA I – CIVIL E EMPRESARIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR012",
+            "DIR116",
+            "DIR256"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR165",
+        "nome": "PROCESSUAL PENAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR004",
+            "DIR032"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR174",
+        "nome": "DIREITO DO TRABALHO I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR115",
+            "DIR122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR109",
+        "nome": "ELABORACAO DE PROJETO DE TRABALHO DE CURSO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR032",
+            "DIR108",
+            "DIR115",
+            "DIR124",
+            "DIR128",
+            "DIR257"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR137",
+        "nome": "DIREITO CIVIL - FAMILIAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR117"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR140",
+        "nome": "ESTAGIO INTERNO (NPJ) I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR136"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR166",
+        "nome": "PROCESSUAL PENAL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR165"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR175",
+        "nome": "DIREITO DO TRABALHO II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR174"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR538",
+        "nome": "DIREITO INTERNACIONAL PUBLICO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR023",
+            "DIR115"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR020",
+        "nome": "DIREITO TRIBUTARIO I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR129"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR141",
+        "nome": "DIREITO CIVIL - SUCESSOES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR137",
+            "DIR257"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR142",
+        "nome": "DIREITO AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR128"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR143",
+        "nome": "DIREITO DO PATRIMONIO CULTURAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR144",
+        "nome": "ESTAGIO INTERNO (NPJ) II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR140"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR153",
+        "nome": "DIREITO PROCESSUAL DO TRABALHO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR175"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR167",
+        "nome": "DIREITO PROCESSUAL PENAL III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR166"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR139",
+        "nome": "DIREITO TRIBUTARIO II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR020"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR145",
+        "nome": "DIREITO DIGITAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR118"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR154",
+        "nome": "DIREITO PREVIDENCIARIO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR023",
+            "DIR141",
+            "DIR175"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR172",
+        "nome": "DIREITO INTERNACIONAL PRIVADO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR023",
+            "DIR115"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR185",
+        "nome": "DEFESA DE TRABALHO DE CURSO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR109"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR007",
+        "nome": "DIREITO DA CRIANCA E DO ADOLESCENTE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR032"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR038",
+        "nome": "TOPICOS EM DECOLONIALIDADE E PENSAMENTOS CONTRA-HEGEMONICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR045",
+        "nome": "LEGISLACAO PENAL ESPECIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR032"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR051",
+        "nome": "ASSESSORIA JURIDICA POPULAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR052",
+        "nome": "ESTUDOS JURIDICOS SOBRE RELACOES ETNICO-RACIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR055",
+        "nome": "ESTUDOS JURIDICOS SOBRE POLITICAS DE GENERO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR056",
+        "nome": "LIBERDADE DE EXPRESSAO RESISTIDA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR057",
+        "nome": "TENDENCIAS DO ENSINO JURIDICO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR058",
+        "nome": "AUTONOMIA NO EXERCICIO DE DIREITOS FUNDAMENTAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR059",
+        "nome": "TOPICOS AVANCADOS EM DIREITO DO CONSUMIDOR",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR060",
+        "nome": "TOPICOS EM RESPONSABILIDADE CIVIL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR061",
+        "nome": "LAWFARE",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR062",
+        "nome": "DIREITO PROCESSUAL COLETIVO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR258"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR063",
+        "nome": "DIREITO DA EXECUCAO PENAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR064",
+        "nome": "TOPICOS AVANCADOS EM DIREITO CONTRATUAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR125",
+        "nome": "TOPICOS EM BIODIREITO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR126",
+        "nome": "TOPICOS EM RELACOES INTERNACIONAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR103"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR150",
+        "nome": "DIREITO E LITERATURA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR101"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR701",
+        "nome": "DIREITO ROMANO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR725",
+        "nome": "DIREITO MUNICIPAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR023"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR728",
+        "nome": "TOPICOS EM LICITACOES E CONTRATOS ADMINISTRATIVOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR128"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR729",
+        "nome": "TOPICOS EM SERVIDORES PUBLICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR129"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR731",
+        "nome": "CRIMINOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR032"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR768",
+        "nome": "ARBITRAGEM JURIDICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR004",
+            "DIR115"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR772",
+        "nome": "DIREITO COMERCIAL INTERNACIONAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR538"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR778",
+        "nome": "DIREITOS INDIVIDUAIS TRABALHISTAS DAS PROFISSOES REGULAMENTADAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR175"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR779",
+        "nome": "DIREITO COLETIVO DO TRABALHO E NOVAS PERSPECTIVAS SINDICAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR175"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR781",
+        "nome": "DIREITO DO TRABALHO, NOVOS SUJEITOS DA PROTECAO TRABALHISTA E TRABALHADORES SEM DIREITOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR175"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR791",
+        "nome": "DIREITO PROCESSUAL CIVIL IV",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR258"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR793",
+        "nome": "NOVOS DIREITOS, NOVOS SUJEITOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "LET966",
+        "nome": "INTRODUCAO A LIBRAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    }
+]

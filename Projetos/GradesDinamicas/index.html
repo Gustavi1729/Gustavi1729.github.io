@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/sidebar.css">
+    <link rel="stylesheet" href="css/grade.css">
+
+    <script src="scripts/dicionario.js" defer></script>
+    <script src="scripts/script.js" defer></script>
+    <title>Grade Dinâmica</title>
+</head>
+
+<body>
+
+
+
+    <!--        -->
+    <header class="simple-header">
+        <div class="header-content">
+            <h1 class="logo"><a class="nav-link" href="index.html"> Grade Dinâmica </a> </h1>
+            <nav>
+                <a href="html/museu.html" class="nav-link">História</a>
+                <a href="html/FAQ.html" class="nav-link">Perguntas Frequentes</a>
+            </nav>
+        </div>
+    </header>
+
+
+    <div id="Principal">
+        <h1> GRADE DINÂMICA</h1>
+        <div id="elementosCima">
+            <div id="SeletorDiv">
+                <button onclick="limpaGrade()" class='SeletorCurso'>Limpar</button>
+                <select name="SeletorDisciplina" id="selCurso">
+
+                </select>
+                <button onclick="carregaGrade()" class='SeletorCurso'>Carregar Grade Escolhida</button>
+
+            </div>
+
+            <div id="BarrasDeProgresso">
+                <div id="ProgressoObg" class="ProgressoDiv">
+                    <progress value="" max="100" id="barraProgressoObg" class="progressbar"> Barra </progress>
+                    <div>Progresso Obrigatorias: <span id="textoProgressoObgPorc">0%</span></div>
+                    <div>Progresso Obrigatorias: <span id="textoProgressoObgAbs">0/0 Disciplinas</span></div>
+                </div>
+
+                <div id="ProgressoEle" class="ProgressoDiv">
+                    <progress value="" max="100" id="barraProgressoEle" class="progressbar"> Barra </progress>
+                    <div>Progresso Eletivas: <span id="textoProgressoElePorc">0%</span></div>
+                    <div>Progresso Eletivas: <span id="textoProgressoEleAbs">0/0 Horas</span></div>
+                </div>
+
+                <div id="ProgressoTot" class="ProgressoDiv">
+                    <progress value="" max="100" id="barraProgressoTot" class="progressbar"> Barra </progress>
+                    <div>Progresso Total: <span id="textoProgressoPorc">0%</span></div>
+                    <div>Progresso Total: <span id="textoProgressoAbs">0/0 Horas</span></div>
+                </div>
+
+
+            </div>
+            <button class="toggle-btn" id="toggleBtn">☰ Menu Eletivas</button>
+            <div class="sidebar" id="sidebar">
+                <div id="sidebartop">
+
+                    <div class="search-container">
+                        <input type="search" id="courseSearch" placeholder="Search courses...">
+                        <button type="button" class="botao-pesquisa" onclick="filtraEletivas()">🔍</button>
+                    </div>
+                    <button class="toggle-btnSide hidden" id="toggleBtnSide"> X </button>
+                </div>
+                <div id="containerSIDE"></div>
+
+            </div>
+
+
+        </div>
+
+        <div class="container" id="containerGRID"> </div>
+
+    </div>
+
+    <footer class="minimal-footer">
+        <div class="footer">
+            <p> Este site não possui vínculo com a UFOP</p>
+            <p>E-mail para contato: nascimentovieiragustavo@gmail.com</p>
+            <p> Versão: 1.0.0</p>
+        </div>
+    </footer>
+
+</body>
+
+</html>
+
+
+
+
+<!-- 
+
+TODO:
+
+Cookies
+Museu
+
+
+Footer
+Header
+
+
+
+
+
+
+
+-->

@@ -1,0 +1,1446 @@
+[
+    {
+        "codigo": "BCC104",
+        "nome": "ALGORITMOS E PROGRAMACAO I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM122",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 6,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM131",
+        "nome": "GEOMETRIA ANALITICA E CALCULO VETORIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI023",
+        "nome": "HIGIENE OCUPACIONAL E SEGURANCA DE LABORATORIO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 15,
+        "cargaHExtensionista": 0,
+        "cargaHA": 18,
+        "teoricas": 1,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI024",
+        "nome": "QUIMICA GERAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI025",
+        "nome": "QUIMICA GERAL EXPERIMENTAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI026",
+        "nome": "INTRODUCAO A QUIMICA INDUSTRIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 15,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ARQ205",
+        "nome": "REPRESENTACAO GRAFICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS106",
+        "nome": "FUNDAMENTOS DE MECANICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO176",
+        "nome": "MINERALOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM112",
+        "nome": "INTRODUCAO A ALGEBRA LINEAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM131"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM123",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI027",
+        "nome": "QUIMICA GERAL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI024"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI028",
+        "nome": "QUIMICA GERAL EXPERIMENTAL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI024",
+            "QUI025"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST202",
+        "nome": "ESTATISTICA E PROBABILIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS108",
+        "nome": "FUNDAMENTOS DE FLUIDOS, OSCILACOES E ONDAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI029",
+        "nome": "FISICO-QUIMICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM122",
+            "QUI027",
+            "QUI028"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI030",
+        "nome": "FISICO-QUIMICA EXPERIMENTAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM122",
+            "QUI027",
+            "QUI028"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI031",
+        "nome": "QUIMICA ANALITICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI027",
+            "QUI028"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI032",
+        "nome": "QUIMICA ANALITICA EXPERIMENTAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI027",
+            "QUI028"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI033",
+        "nome": "QUIMICA INORGANICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI027"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI034",
+        "nome": "QUIMICA INORGANICA EXPERIMENTAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI027"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC105",
+        "nome": "CALCULO NUMERICO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC104",
+            "MTM122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS110",
+        "nome": "FUNDAMENTOS DE OPTICA E QUANTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS108"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI035",
+        "nome": "QUIMICA ORGANICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI027"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI036",
+        "nome": "QUIMICA ORGANICA EXPERIMENTAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI027",
+            "QUI028"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI037",
+        "nome": "QUIMICA ANALITICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI031",
+            "QUI032"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI038",
+        "nome": "QUIMICA ANALITICA EXPERIMENTAL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI031",
+            "QUI032"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI039",
+        "nome": "FISICO-QUIMICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI029",
+            "QUI030"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI040",
+        "nome": "FISICO-QUIMICA EXPERIMENTAL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI029",
+            "QUI030"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI041",
+        "nome": "QUIMICA INORGANICA EXPERIMENTAL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI033"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI256",
+        "nome": "BIOQUIMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI035",
+            "QUI036"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS109",
+        "nome": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106",
+            "MTM122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS148",
+        "nome": "ESTRUTURA DA MATERIA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106",
+            "FIS110",
+            "QUI024",
+            "QUI025"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI042",
+        "nome": "QUIMICA DE MATERIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI039"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI045",
+        "nome": "QUIMICA ORGANICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI035"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI046",
+        "nome": "QUIMICA ORGANICA EXPERIMENTAL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI035",
+            "QUI036"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI047",
+        "nome": "QUIMICA ANALITICA INSTRUMENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI037",
+            "QUI038"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI259",
+        "nome": "MICROBIOLOGIA APLICADA A QUIMICA INDUSTRIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI256"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI043",
+        "nome": "OPERACOES UNITARIAS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI039"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 15,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI048",
+        "nome": "METODOS FISICOS DE ANALISE ORGANICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI045"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI050",
+        "nome": "QUIMICA AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI035"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI052",
+        "nome": "ESTEQUIOMETRIA INDUSTRIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM112",
+            "QUI027"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI053",
+        "nome": "PROJETOS EXTENSIONISTAS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 30,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI056",
+        "nome": "TECNICAS CROMATOGRAFICAS DE ANALISE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI047"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI058",
+        "nome": "RESIDUOS SOLIDOS E EFLUENTES LIQUIDOS",
+        "prerequisitoH": 1000,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 15,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "PRO246",
+        "nome": "ORGANIZACAO E ADMINISTRACAO II",
+        "prerequisitoH": 1200,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI049",
+        "nome": "ANALISE DE AGUA, AR E SOLO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI047"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI051",
+        "nome": "OPERACOES UNITARIAS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI043"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 15,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI054",
+        "nome": "PROCESSOS INORGANICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI033",
+            "QUI034",
+            "QUI043"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI055",
+        "nome": "PROJETOS EXTENSIONISTAS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 45,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI057",
+        "nome": "PROCESSOS ORGANICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI045"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI059",
+        "nome": "CINETICA E REATORES INDUSTRIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC105",
+            "QUI039"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI060",
+        "nome": "ESTAGIO SUPERVISIONADO",
+        "prerequisitoH": 1000,
+        "prerequisitoD": [],
+        "cargaHSemestral": 160,
+        "cargaHExtensionista": 0,
+        "cargaHA": 192,
+        "teoricas": 1,
+        "praticas": 10,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ALI229",
+        "nome": "PROCESSOS DE CONSERVACAO DE ALIMENTOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI259"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC106",
+        "nome": "ALGORITMOS E PROGRAMACAO II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC104"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD405",
+        "nome": "SEMINARIO EM PLANO DE NEGOCIOS E EMPREENDEDORISMO",
+        "prerequisitoH": 1000,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAT178",
+        "nome": "INTRODUCAO AS TECNOLOGIAS DA INDUSTRIA 4.0",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR001",
+        "nome": "INTRODUCAO A LEGISLACAO E AO DIREITO AMBIENTAL",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR402",
+        "nome": "QUALIDADE DE AGUAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI037",
+            "QUI038"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR408",
+        "nome": "BIOTECNOLOGIA II (INDUSTRIA)",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR617"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 0,
+        "praticas": 4,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR617",
+        "nome": "BIOTECNOLOGIA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI259"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS319",
+        "nome": "FISICA DOS MATERIAIS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106",
+            "QUI027"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS525",
+        "nome": "ESTRUTURA E PROPRIEDADES DE CERAMICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS148"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO169",
+        "nome": "GEOQUIMICA AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI047"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "LET966",
+        "nome": "INTRODUCAO A LIBRAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MEC119",
+        "nome": "MECANICA DOS FLUIDOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM123"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MEC126",
+        "nome": "TRANSFERENCIA DE CALOR E MASSA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MEC119"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO073",
+        "nome": "ENGENHARIA DA QUALIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 15,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO081",
+        "nome": "GESTAO DA INOVACAO E DA TECNOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 30,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO241",
+        "nome": "ECONOMIA I",
+        "prerequisitoH": 1200,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO242",
+        "nome": "ECONOMIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "PRO241"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO245",
+        "nome": "ORGANIZACAO E ADMINISTRACAO I",
+        "prerequisitoH": 1200,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI014",
+        "nome": "CORROSAO DE MATERIAIS METALICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI042"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI061",
+        "nome": "QUIMIOMETRIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI047"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI062",
+        "nome": "INTRODUCAO A QUIMICA BIOINORGANICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI033"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI063",
+        "nome": "INTRODUCAO A MODELAGEM E SIMULACAO DE PROCESSOS QUIMICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI059"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI064",
+        "nome": "INTRODUCAO AOS PRINCIPIOS FUNDAMENTAIS DE RMN",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS148"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI065",
+        "nome": "INTRODUCAO A FISICO-QUIMICA DE MACROMOLECULAS EM SOLUCAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI039"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI066",
+        "nome": "FISICO–QUIMICA III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM123",
+            "QUI029"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI067",
+        "nome": "INTRODUCAO A FISICO-QUIMICA DE SUPERFICIES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI029"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI068",
+        "nome": "INTRODUCAO AOS METODOS DE QUIMICA COMPUTACIONAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI256",
+            "FIS148",
+            "QUI029"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI069",
+        "nome": "TOPICOS ESPECIAIS EM POLIMEROS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI042"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI070",
+        "nome": "PLANEJAMENTO DE EXPERIMENTOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST202"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI071",
+        "nome": "PROJETOS AMBIENTAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI050",
+            "QUI051"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI072",
+        "nome": "INTRODUCAO A BIORREFINARIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI043"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI073",
+        "nome": "METODOS DE PREPARO DE AMOSTRAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI037",
+            "QUI038"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI074",
+        "nome": "HISTORIA DA QUIMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI027",
+            "QUI028"
+        ],
+        "cargaHSemestral": 15,
+        "cargaHExtensionista": 60,
+        "cargaHA": 72,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI501",
+        "nome": "INTRODUCAO A QUIMICA DE CARBOIDRATOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI035"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI509",
+        "nome": "INTRODUCAO A CATALISE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI033"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI511",
+        "nome": "INTRODUCAO A QUIMICA DE FARMACOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI035"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    }
+]

@@ -1,0 +1,120 @@
+.container {
+    display: grid;
+    grid-auto-flow: column;
+    flex-shrink: 1;
+    overflow-x: auto;
+    
+    overflow-y: auto;
+
+    gap: 10px;
+    padding: 25px;
+    
+
+    border-color: #080000;
+    border-style: solid;
+    border-radius: 35px;
+    border-width: 2px;
+
+    background-color: #b3b3b3;
+
+    width: 90vw;
+    height: 75vh;
+
+}
+
+
+        
+.square {
+    overflow: auto;
+    font-family:Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    font-size: 12px;
+    font-weight: 500;
+    font-style: Verdana;
+
+    width: 100%;
+    height: 100%;
+    min-height: 80px;
+    min-width: 130px;
+    max-width: 180px;
+
+    background-color: #ff3232;
+    color: black;
+
+    border-radius: 15px;
+    margin: 10px;
+    padding: 2px;
+
+    text-align: center;
+    align-items: center;     /* Vertical center */
+    
+    
+    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+
+
+    transition: all 0.2s ease;
+    border-style: solid;
+    border-width: 2px;
+
+}
+
+.square:hover {
+    background-color: #fa4545; /* Darker shade on hover */
+    cursor: pointer; /* Changes to pointer hand */
+    
+    /* Optional additional effects */
+    transform: scale(1.05); /* Slight grow effect */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.7); /* Add shadow */
+}
+
+
+.square.possivel{
+    background-color: #2045ff;
+    border-style: dashed;
+
+}
+.square.possivel:hover{
+    background-color: #3359ff;
+}
+
+.square.feito {
+    background-color: rgb(50, 255, 50);
+    border-style: solid;
+
+
+}
+.square.feito:hover{
+    background-color: #73ff4c;
+}
+
+
+.squareInfo
+{
+    background-color: white;
+    margin: 2px;
+    padding: 4px;
+    border-radius: 10px;
+    margin-top: auto;
+
+    font-size: 10px;
+    color: #080000;
+}
+
+.headerPeriodo
+{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    
+    border-radius: 15px;
+    margin: 0px 10px 0px 10px;
+    align-self: center;
+    background-color: white;
+    padding: 2px;
+    max-width: 180px;
+    max-height: 20px;
+
+}

@@ -1,0 +1,1618 @@
+[
+    {
+        "codigo": "CBI114",
+        "nome": "ANATOMIA HUMANA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI199",
+        "nome": "CITO-HISTOLOGIA A",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI617",
+        "nome": "EMBRIOLOGIA HUMANA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSO117",
+        "nome": "METODOLOGIA DE PESQUISA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR600",
+        "nome": "INTRODUCAO A FARMACIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM500",
+        "nome": "FUNDAMENTOS DE CALCULO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI211",
+        "nome": "QUIMICA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI212",
+        "nome": "QUIMICA GERAL EXPERIMENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI197",
+        "nome": "FISIOLOGIA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST206",
+        "nome": "BIOESTATISTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR010",
+        "nome": "OBSERVACOES E EXPERIENCIAS PRATICAS EM SAUDE COLETIVA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "PRO600",
+        "nome": "ADMINISTRACAO E ECONOMIA/GESTAO DE QUALIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI213",
+        "nome": "QUIMICA ORGANICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI211"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI218",
+        "nome": "FISICO-QUIMICA EXPERIMENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM500",
+            "QUI211",
+            "QUI212"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI287",
+        "nome": "FISICO-QUIMICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM500",
+            "QUI211"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI288",
+        "nome": "QUIMICA ORGANICA EXPERIMENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI211",
+            "QUI212"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI312",
+        "nome": "QUIMICA INORGANICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI211"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV119",
+        "nome": "MORFOLOGIA VEGETAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI198",
+        "nome": "FISIOLOGIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI197"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI218",
+        "nome": "BIOQUIMICA CELULAR I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI213"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR035",
+        "nome": "EPIDEMIOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST206"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI215",
+        "nome": "QUIMICA ORGANICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI213",
+            "QUI288"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI219",
+        "nome": "QUIMICA ANALITICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI211"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI232",
+        "nome": "QUIMICA ANALITICA EXPERIMENTAL APLICADA A FARMACIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI211",
+            "QUI212"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 0,
+        "praticas": 3,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ACL011",
+        "nome": "IMUNOLOGIA BASICA E APLICADA A FARMACIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI607",
+        "nome": "BIOQUIMICA CELULAR II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI218"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI610",
+        "nome": "PATOLOGIA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI198"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR011",
+        "nome": "FARMACOEPIDEMIOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR035"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR012",
+        "nome": "FARMACOLOGIA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI198",
+            "CBI218"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR013",
+        "nome": "OBSERVACOES E EXPERIENCIAS PRATICAS EM INDUSTRIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR010"
+        ],
+        "cargaHSemestral": 15,
+        "cargaHExtensionista": 0,
+        "cargaHA": 18,
+        "teoricas": 0,
+        "praticas": 1,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR604",
+        "nome": "INTRODUCAO AS OPERACOES UNITARIAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI218",
+            "QUI287"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI289",
+        "nome": "METODOS FISICOS DE ANALISE ORGANICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI215"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI290",
+        "nome": "QUIMICA ANALITICA INSTRUMENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI219",
+            "QUI232"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ACL012",
+        "nome": "MICROBIOLOGIA GERAL APLICADA A FARMACIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI198",
+            "CBI607",
+            "CBI610"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 3,
+        "praticas": 3,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ACL013",
+        "nome": "PARASITOLOGIA HUMANA E CLINICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ACL011",
+            "CBI198",
+            "CBI610"
+        ],
+        "cargaHSemestral": 120,
+        "cargaHExtensionista": 0,
+        "cargaHA": 144,
+        "teoricas": 5,
+        "praticas": 3,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR014",
+        "nome": "FARMACOLOGIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR012"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR015",
+        "nome": "OBSERVACOES E EXPERIENCIAS PRATICAS EM FARMACIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR012"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 0,
+        "praticas": 3,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR606",
+        "nome": "FARMACOGNOSIA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV119",
+            "CBI607",
+            "QUI215"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 2,
+        "praticas": 3,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR609",
+        "nome": "SAUDE PUBLICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR035"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ACL014",
+        "nome": "BIOLOGIA MOLECULAR APLICADA A FARMACIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ACL013",
+            "CBI607"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ACL015",
+        "nome": "HEMATOLOGIA CLINICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI610"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 4,
+        "praticas": 1,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ACL600",
+        "nome": "BIOQUIMICA CLINICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI607",
+            "CBI610",
+            "FAR012"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR016",
+        "nome": "FARMACOGNOSIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR606"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 2,
+        "praticas": 3,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR017",
+        "nome": "FARMACOLOGIA III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ACL012",
+            "FAR012"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR018",
+        "nome": "ELABORACAO DE PROJETO DE TRABALHO DE CONCLUSAO DE CURSO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSO117",
+            "FAR013",
+            "FAR015"
+        ],
+        "cargaHSemestral": 15,
+        "cargaHExtensionista": 0,
+        "cargaHA": 18,
+        "teoricas": 1,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR613",
+        "nome": "FARMACOTECNICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR012",
+            "FAR604",
+            "QUI215"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 4,
+        "praticas": 2,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ACL403",
+        "nome": "BIOQUIMICA CLINICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ACL600"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ACL404",
+        "nome": "HEMATOLOGIA CLINICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ACL015"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR019",
+        "nome": "ASSISTENCIA FARMACEUTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR011",
+            "FAR015",
+            "FAR609"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR020",
+        "nome": "FARMACOLOGIA IV",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI607",
+            "FAR012"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR021",
+        "nome": "TOXICOLOGIA GERAL E DOS ALIMENTOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR012"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR416",
+        "nome": "BIOFARMACIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR012",
+            "FAR613"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR615",
+        "nome": "FARMACOTECNICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR613"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 4,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR617",
+        "nome": "BIOTECNOLOGIA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ACL014"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ACL017",
+        "nome": "MICROBIOLOGIA HUMANA CLINICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ACL012"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 2,
+        "praticas": 3,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ACL401",
+        "nome": "CITOLOGIA DO COLO DO UTERO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI199",
+            "CBI610"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR022",
+        "nome": "DEONTOLOGIA E LEGISLACAO FARMACEUTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR609"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR023",
+        "nome": "ESTAGIO FARMACIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR020",
+            "FAR615"
+        ],
+        "cargaHSemestral": 105,
+        "cargaHExtensionista": 0,
+        "cargaHA": 126,
+        "teoricas": 0,
+        "praticas": 7,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR024",
+        "nome": "QUIMICA FARMACEUTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR017",
+            "QUI289"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 4,
+        "praticas": 2,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR025",
+        "nome": "TOXICOLOGIA HUMANA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR021"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 2,
+        "praticas": 3,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR406",
+        "nome": "FITOTERAPIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR012",
+            "FAR016"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ACL225",
+        "nome": "ESTAGIO EM ANALISES CLINICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ACL012",
+            "ACL013",
+            "ACL015",
+            "ACL600"
+        ],
+        "cargaHSemestral": 270,
+        "cargaHExtensionista": 0,
+        "cargaHA": 324,
+        "teoricas": 0,
+        "praticas": 18,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR026",
+        "nome": "PROMOCAO E EDUCACAO EM SAUDE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR015",
+            "FAR609"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 0,
+        "praticas": 3,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR622",
+        "nome": "CONTROLE FISICO-QUIMICO DE QUALIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR615",
+            "QUI289"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR027",
+        "nome": "ESTAGIO FINAL DE CURSO EM ASSISTENCIA FARMACEUTICA OU INDUSTRIA",
+        "prerequisitoH": 4100,
+        "prerequisitoD": [
+            "ACL225",
+            "FAR026",
+            "FAR622"
+        ],
+        "cargaHSemestral": 375,
+        "cargaHExtensionista": 0,
+        "cargaHA": 450,
+        "teoricas": 0,
+        "praticas": 25,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "TCC007",
+        "nome": "TRABALHO DE CONCLUSAO DE CURSO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR018"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ACL019",
+        "nome": "ESTAGIO EM ANALISES CLINICAS III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ACL017"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 0,
+        "praticas": 6,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ACL020",
+        "nome": "TERAPEUTICA DAS DOENCAS HEMATOLOGICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ACL404"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ACL021",
+        "nome": "PRINCIPIOS DOS CUIDADOS PALIATIVOS NA PRATICA FARMACEUTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ACL402",
+        "nome": "CITOLOGIA MAMARIA PULMONAR E DOS LIQUIDOS CAVITARIOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ACL401"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ACL406",
+        "nome": "BIOLOGIA MOLECULAR APLICADA AS ANALISES CLINICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ACL014"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ACL407",
+        "nome": "TOPICOS EM ANALISES CLINICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ACL014",
+            "CBI607"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ACL408",
+        "nome": "CONTROLE DE QUALIDADES EM ANALISES CLINICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ACL015"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ALI135",
+        "nome": "BROMATOLOGIA E COMPOSICAO DE ALIMENTOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI218",
+            "QUI219",
+            "QUI232"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 2,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ALI227",
+        "nome": "MICROBIOLOGIA DE ALIMENTOS D",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ACL012"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 2,
+        "praticas": 4,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ALI229",
+        "nome": "PROCESSOS DE CONSERVACAO DE ALIMENTOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ACL012"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ALI250",
+        "nome": "NUTRICAO EXPERIMENTAL D",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI607"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV162",
+        "nome": "SISTEMATICA VEGETAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV185",
+        "nome": "FUNDAMENTOS DE BIOETICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI010",
+        "nome": "VIROLOGIA CLINICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI619",
+        "nome": "TOPICOS ESPECIAIS EM ANATOMIA HUMANA APLICADA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI114"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EFD301",
+        "nome": "EDUCACAO FISICA E DESPORTOS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EFD302",
+        "nome": "EDUCACAO FISICA E DESPORTOS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR009",
+        "nome": "INTRODUCAO A BIOINFORMATICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR031",
+        "nome": "ECOTOXICOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR021"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR032",
+        "nome": "HABILIDADES DE COMUNICACAO APLICADAS A PRATICA CLINICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR019"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR033",
+        "nome": "HUMANIZACAO DOS CUIDADOS EM SAUDE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR019",
+            "FAR020"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR034",
+        "nome": "TOXICOLOGIA HUMANA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR025"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR064",
+        "nome": "TOPICOS EM QUIMICA MEDICINAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR024"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR102",
+        "nome": "EPIDEMIOLOGIA AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR035"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR401",
+        "nome": "PRIMEIROS SOCORROS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ACL015",
+            "FAR014"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR402",
+        "nome": "QUALIDADE DE AGUAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ACL013",
+            "QUI219",
+            "QUI232"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR403",
+        "nome": "CONTROLE DE QUALIDADE DE INSUMOS FITOTERAPICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR016"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR404",
+        "nome": "FARMACIA HOMEOPATICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR613"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR410",
+        "nome": "PRODUTOS SANEANTES E DOMISSANITARIOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR412",
+        "nome": "TECNOLOGIA DE COSMETICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR615"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR413",
+        "nome": "BIOTECNOLOGIA III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR617"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR415",
+        "nome": "SINTESE ORGANICA DA FARMACOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI215",
+            "QUI288"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "LET966",
+        "nome": "INTRODUCAO A LIBRAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO238",
+        "nome": "ADMINISTRACAO DA PRODUCAO D",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "PRO600"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO301",
+        "nome": "EMPREENDEDORISMO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    }
+]

@@ -1,0 +1,1256 @@
+[
+    {
+        "codigo": "BCC201",
+        "nome": "INTRODUCAO A PROGRAMACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 4,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC265",
+        "nome": "ELETRONICA PARA COMPUTACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 4,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC501",
+        "nome": "INTRODUCAO A CIENCIA DA COMPUTACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM122",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 6,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM131",
+        "nome": "GEOMETRIA ANALITICA E CALCULO VETORIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC101",
+        "nome": "MATEMATICA DISCRETA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC202",
+        "nome": "ESTRUTURA DE DADOS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC201"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 4,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC266",
+        "nome": "ORGANIZACAO DE COMPUTADORES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC201"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC324",
+        "nome": "INTERACAO HUMANO-COMPUTADOR",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EAD700",
+        "nome": "PRATICA DE LEITURA E PRODUCAO DE TEXTOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM123",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC102",
+        "nome": "MATEMATICA DISCRETA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC101"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC203",
+        "nome": "ESTRUTURA DE DADOS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC202"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC221",
+        "nome": "PROGRAMACAO ORIENTADA A OBJETOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC202"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC222",
+        "nome": "PROGRAMACAO FUNCIONAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC201"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC263",
+        "nome": "ARQUITETURA DE COMPUTADORES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC266"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM112",
+        "nome": "INTRODUCAO A ALGEBRA LINEAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM131"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC204",
+        "nome": "TEORIA DOS GRAFOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC202"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC264",
+        "nome": "SISTEMAS OPERACIONAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC202",
+            "BCC263"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC322",
+        "nome": "ENGENHARIA DE SOFTWARE I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC221"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC361",
+        "nome": "REDES DE COMPUTADORES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC266"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC760",
+        "nome": "CALCULO NUMERICO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC201",
+            "MTM112"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST202",
+        "nome": "ESTATISTICA E PROBABILIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC241",
+        "nome": "PROJETO E ANALISE DE ALGORITMOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC204"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC244",
+        "nome": "TEORIA DA COMPUTACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC102",
+            "BCC204"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC321",
+        "nome": "BANCO DE DADOS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC203"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC323",
+        "nome": "ENGENHARIA DE SOFTWARE II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC322"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC362",
+        "nome": "SISTEMAS DISTRIBUIDOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC361"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC502",
+        "nome": "METODOLOGIA CIENTIFICA EM CIENCIA DA COMPUTACAO",
+        "prerequisitoH": 720,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC325",
+        "nome": "INTELIGENCIA ARTIFICIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC101",
+            "BCC202"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC326",
+        "nome": "PROCESSAMENTO DE IMAGENS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC202"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC327",
+        "nome": "COMPUTACAO GRAFICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC202",
+            "MTM112"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC328",
+        "nome": "CONSTRUCAO DE COMPILADORES I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC222",
+            "BCC244"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC342",
+        "nome": "INTRODUCAO A OTIMIZACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC202"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC392",
+        "nome": "MONOGRAFIA I",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [
+            "BCC502"
+        ],
+        "cargaHSemestral": 120,
+        "cargaHExtensionista": 0,
+        "cargaHA": 144,
+        "teoricas": 0,
+        "praticas": 8,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC503",
+        "nome": "INFORMATICA E SOCIEDADE",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIL101",
+        "nome": "INTRODUCAO A HISTORIA DA FILOSOFIA",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC393",
+        "nome": "MONOGRAFIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC392"
+        ],
+        "cargaHSemestral": 120,
+        "cargaHExtensionista": 0,
+        "cargaHA": 144,
+        "teoricas": 0,
+        "praticas": 8,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR260",
+        "nome": "DIREITO DA INFORMATICA",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "PRO302",
+        "nome": "ACOES EMPREENDEDORAS",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC402",
+        "nome": "ALGORITMOS E PROGRAMACAO AVANCADA",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC202"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 0,
+        "praticas": 4,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC403",
+        "nome": "INTERFACE DE USUARIO AVANCADA PARA WEARABLE COMPUTING",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC221",
+            "BCC324",
+            "BCC327"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC404",
+        "nome": "LOGICA APLICADA A COMPUTACAO",
+        "prerequisitoH": 720,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC405",
+        "nome": "OTIMIZACAO NAO LINEAR",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC202",
+            "MTM123"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC406",
+        "nome": "REDES NEURAIS E APRENDIZAGEM EM PROFUNDIDADE",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC202",
+            "MTM123"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC407",
+        "nome": "PROJETO E ANALISE DE EXPERIMENTOS COMPUTACIONAIS",
+        "prerequisitoH": 720,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC408",
+        "nome": "PROJETO DE CIRCUITOS LOGICOS INTEGRADOS USANDO HDL (HARDWARE DESCRIPTION LANGUAGE)",
+        "prerequisitoH": 720,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC409",
+        "nome": "SISTEMAS DE RECOMENDACAO",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC203"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC410",
+        "nome": "LABORATORIO DE STARTUPS",
+        "prerequisitoH": 720,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC421",
+        "nome": "COMPUTACAO MOVEL",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC362"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC422",
+        "nome": "COMPUTACAO NAS NUVENS",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC362"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC423",
+        "nome": "CRIPTOGRAFIA E SEGURANCA DE SISTEMAS",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC101",
+            "BCC266"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC425",
+        "nome": "SISTEMAS EMBUTIDOS",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC263"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC441",
+        "nome": "BANCO DE DADOS II",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC321"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC442",
+        "nome": "CONSTRUCAO DE COMPILADORES II",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC328"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC443",
+        "nome": "GEOPROCESSAMENTO E SISTEMAS DE INFORMACAO GEOGRAFICA",
+        "prerequisitoH": 720,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC444",
+        "nome": "MINERACAO DE DADOS",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC321"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC445",
+        "nome": "MODELAGEM E SIMULACAO DE SISTEMAS TERRESTRES",
+        "prerequisitoH": 720,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC446",
+        "nome": "PROGRAMACAO EM LOGICA",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC101"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC447",
+        "nome": "PROGRAMACAO PARALELA",
+        "prerequisitoH": 720,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC448",
+        "nome": "RECONHECIMENTO DE PADROES",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC326"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC449",
+        "nome": "RECUPERACAO DE INFORMACAO NA WEB",
+        "prerequisitoH": 720,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC450",
+        "nome": "GERENCIA DE DADOS NA WEB",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC321"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC461",
+        "nome": "COMPUTACAO EVOLUTIVA",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC201"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC462",
+        "nome": "INTELIGENCIA COMPUTACIONAL",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC202"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC463",
+        "nome": "OTIMIZACAO EM REDES",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC202"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC464",
+        "nome": "OTIMIZACAO LINEAR E INTEIRA",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC202"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC465",
+        "nome": "TECNICAS DE OTIMIZACAO MULTIOBJETIVO",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC202"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC466",
+        "nome": "TECNICAS METAHEURISTICAS PARA OTIMIZACAO COMBINATORIA",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC202"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC481",
+        "nome": "PROGRAMACAO WEB",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC321",
+            "BCC322"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC482",
+        "nome": "GERENCIA DE PROJETOS DE SOFTWARE",
+        "prerequisitoH": 720,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC483",
+        "nome": "QUALIDADE DE SOFTWARE",
+        "prerequisitoH": 720,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC485",
+        "nome": "DESIGN DE INTERACAO",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC324"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC486",
+        "nome": "AVALIACAO DE SISTEMAS INTERATIVOS",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC324"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC488",
+        "nome": "PROGRAMACAO FUNCIONAL AVANCADA",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC222"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC505",
+        "nome": "MINERACAO WEB",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC321"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC601",
+        "nome": "EDUCACAO A DISTANCIA",
+        "prerequisitoH": 720,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAT141",
+        "nome": "TEORIA DE CONTROLE I",
+        "prerequisitoH": 720,
+        "prerequisitoD": [
+            "BCC265"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS827",
+        "nome": "INTRODUCAO A INFORMACAO QUANTICA",
+        "prerequisitoH": 720,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "LET966",
+        "nome": "INTRODUCAO A LIBRAS",
+        "prerequisitoH": 720,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO315",
+        "nome": "LOGISTICA",
+        "prerequisitoH": 720,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    }
+]

@@ -1,0 +1,2129 @@
+[
+    {
+        "codigo": "CEA038",
+        "nome": "QUIMICA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA039",
+        "nome": "QUIMICA GERAL EXPERIMENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA049",
+        "nome": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA050",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI030",
+        "nome": "PROGRAMACAO DE COMPUTADORES I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EAD707",
+        "nome": "COMUNICACAO E EXPRESSAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT204",
+        "nome": "INTRODUCAO A ENGENHARIA ELETRICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT458",
+        "nome": "METODOLOGIA DA PESQUISA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA051",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA049",
+            "CEA050"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA055",
+        "nome": "ESTATISTICA E PROBABILIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA050"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA061",
+        "nome": "FISICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA049",
+            "CEA050"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI488",
+        "nome": "ALGORITMOS E ESTRUTURA DE DADOS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI030"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT026",
+        "nome": "DESENHO COMPUTACIONAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA052",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA051"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA056",
+        "nome": "INTRODUCAO AS EQUACOES DIFERENCIAIS ORDINARIAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA051"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA062",
+        "nome": "FISICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA038",
+            "CEA039",
+            "CEA051",
+            "CEA061"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA063",
+        "nome": "FISICA III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA038",
+            "CEA039",
+            "CEA051",
+            "CEA055",
+            "CEA061"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT341",
+        "nome": "PRINCIPIOS DE ELETRONICA DIGITAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI030"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA057",
+        "nome": "METODOS MATEMATICOS APLICADOS A ENGENHARIA ELETRICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA052",
+            "CEA056"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA064",
+        "nome": "FISICA IV",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA052",
+            "CEA056",
+            "CEA062",
+            "CEA063"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI148",
+        "nome": "ANALISE NUMERICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI030"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI203",
+        "nome": "ORGANIZACAO E ARQUITETURA DE COMPUTADORES I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI030"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT552",
+        "nome": "CIRCUITOS ELETRICOS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA056",
+            "CEA062"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA065",
+        "nome": "MECANICA QUANTICA APLICADA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA057",
+            "CEA064"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT502",
+        "nome": "ELETROMAGNETISMO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA052",
+            "CEA062"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT555",
+        "nome": "MODELAGEM E ANALISE DE SISTEMAS LINEARES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA057",
+            "CEA063",
+            "ELT552"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT562",
+        "nome": "SINAIS E SISTEMAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA056"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT563",
+        "nome": "CIRCUITOS ELETRICOS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT552"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT112",
+        "nome": "MAQUINAS ELETRICAS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT502",
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT114",
+        "nome": "SISTEMAS DE CONTROLE I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT555",
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT561",
+        "nome": "ELETRONICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT552"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT573",
+        "nome": "SISTEMAS DE POTENCIA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT582",
+        "nome": "FUNDAMENTOS DE COMUNICACOES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT113",
+        "nome": "MAQUINAS ELETRICAS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT112"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT115",
+        "nome": "ELETRONICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT555",
+            "ELT561"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT580",
+        "nome": "MICROPROCESSADORES E MICROCONTROLADORES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI203",
+            "ELT561"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT583",
+        "nome": "SISTEMAS DE POTENCIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT573"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EAD344",
+        "nome": "TEORIA DA ADMINISTRACAO I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT147",
+        "nome": "ELETRONICA EMBARCADA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT580"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT581",
+        "nome": "ELETRONICA DE POTENCIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT115"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT671",
+        "nome": "PROCESSAMENTO DIGITAL DE SINAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI548",
+        "nome": "REDES DE COMPUTADORES I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI488"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EAD351",
+        "nome": "FILOSOFIA E ETICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT117",
+        "nome": "INSTRUMENTACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT115"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT590",
+        "nome": "ACIONAMENTOS ELETRICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT581"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT598",
+        "nome": "PROJETO EM ENGENHARIA ELETRICA",
+        "prerequisitoH": 2300,
+        "prerequisitoD": [
+            "EAD707",
+            "ELT458"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA066",
+        "nome": "FUNDAMENTOS DE CIENCIA DO AMBIENTE",
+        "prerequisitoH": 900,
+        "prerequisitoD": [
+            "CEA038",
+            "CEA039"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT116",
+        "nome": "INFORMATICA INDUSTRIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI030",
+            "CSI548"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT593",
+        "nome": "MATERIAIS ELETRICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA038",
+            "CEA039",
+            "ELT502"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT594",
+        "nome": "PROJETO INTEGRADOR",
+        "prerequisitoH": 2300,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 0,
+        "praticas": 4,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ELT597",
+        "nome": "INSTALACOES ELETRICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA076",
+        "nome": "INTRODUCAO A LIBRAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI472",
+        "nome": "INTELIGENCIA COMPUTACIONAL PARA OTIMIZACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI488"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI510",
+        "nome": "REDES DE COMPUTADORES II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI548"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT453",
+        "nome": "SISTEMAS MULTIMIDIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT515",
+        "nome": "PROCESSAMENTO DIGITAL DE IMAGENS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT708",
+        "nome": "PRINCIPIOS DAS COMUNICACOES DIGITAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT582"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT709",
+        "nome": "PROPAGACAO DE ONDAS DE RADIO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT502",
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT710",
+        "nome": "PROBABILIDADE E PROCESSOS ESTOCASTICOS PARA ENGENHARIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA052",
+            "CEA055"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT712",
+        "nome": "TOPICOS ESPECIAIS EM TELECOMUNICACOES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT713",
+        "nome": "CONTROLE DE SISTEMAS MULTIVARIAVEIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT714",
+        "nome": "CONTROLE DE SISTEMAS NAO LINEARES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT715",
+        "nome": "SISTEMAS DE CONTROLE ESTOCASTICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT716",
+        "nome": "SISTEMAS DE CONTROLE II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT717",
+        "nome": "IDENTIFICACAO DE SISTEMAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT555",
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT718",
+        "nome": "CONTROLE ADAPTATIVO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT719",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS DE CONTROLE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT555"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT720",
+        "nome": "ATERRAMENTOS ELETRICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT502",
+            "ELT552"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT721",
+        "nome": "SISTEMAS ELETRICOS INDUSTRIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT722",
+        "nome": "OTIMIZACAO DE SISTEMAS ELETRICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA052"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT723",
+        "nome": "PLANEJAMENTO DE SISTEMAS DE ENERGIA ELETRICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT724",
+        "nome": "QUALIDADE DA ENERGIA ELETRICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT725",
+        "nome": "GERACAO DE ENERGIA ELETRICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT726",
+        "nome": "DISTRIBUICAO DE ENERGIA ELETRICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT727",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS ELETRICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT728",
+        "nome": "CONTROLE DE ACIONAMENTOS ELETRICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT555"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT731",
+        "nome": "FUNDAMENTOS DE ENGENHARIA BIOMEDICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT341",
+            "ELT561",
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT732",
+        "nome": "PROCESSAMENTO DE SINAIS BIOLOGICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA055",
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT733",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS DE CONTROLE I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT734",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS DE CONTROLE II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT735",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS DE CONTROLE III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT736",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS DE CONTROLE IV",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT737",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS ELETRICOS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT738",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS ELETRICOS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT739",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS ELETRICOS III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT740",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS ELETRICOS IV",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT741",
+        "nome": "TOPICOS ESPECIAIS EM TELECOMUNICACOES I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT502"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT742",
+        "nome": "TOPICOS ESPECIAIS EM TELECOMUNICACOES II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT743",
+        "nome": "TOPICOS ESPECIAIS EM TELECOMUNICACOES III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT744",
+        "nome": "TOPICOS ESPECIAIS EM TELECOMUNICACOES IV",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 0,
+        "praticas": 4,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT745",
+        "nome": "LINHAS DE TRANSMISSAO E RADIACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT502"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI510",
+        "nome": "REDES DE COMPUTADORES II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI548"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT118",
+        "nome": "PROCESSAMENTO DIGITAL DA FALA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT119",
+        "nome": "TOPICOS ESPECIAIS EM TELECOMUNICACOES V",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT453",
+        "nome": "SISTEMAS MULTIMIDIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT515",
+        "nome": "PROCESSAMENTO DIGITAL DE IMAGENS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT708",
+        "nome": "PRINCIPIOS DAS COMUNICACOES DIGITAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT582"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT709",
+        "nome": "PROPAGACAO DE ONDAS DE RADIO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT502",
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT710",
+        "nome": "PROBABILIDADE E PROCESSOS ESTOCASTICOS PARA ENGENHARIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA052",
+            "CEA055"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT712",
+        "nome": "TOPICOS ESPECIAIS EM TELECOMUNICACOES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT731",
+        "nome": "FUNDAMENTOS DE ENGENHARIA BIOMEDICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT341",
+            "ELT561",
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT732",
+        "nome": "PROCESSAMENTO DE SINAIS BIOLOGICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA055",
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT741",
+        "nome": "TOPICOS ESPECIAIS EM TELECOMUNICACOES I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT502"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT742",
+        "nome": "TOPICOS ESPECIAIS EM TELECOMUNICACOES II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT743",
+        "nome": "TOPICOS ESPECIAIS EM TELECOMUNICACOES III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT744",
+        "nome": "TOPICOS ESPECIAIS EM TELECOMUNICACOES IV",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 0,
+        "praticas": 4,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT745",
+        "nome": "LINHAS DE TRANSMISSAO E RADIACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT502"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT720",
+        "nome": "ATERRAMENTOS ELETRICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT502",
+            "ELT552"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT721",
+        "nome": "SISTEMAS ELETRICOS INDUSTRIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT722",
+        "nome": "OTIMIZACAO DE SISTEMAS ELETRICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA052"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT723",
+        "nome": "PLANEJAMENTO DE SISTEMAS DE ENERGIA ELETRICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT724",
+        "nome": "QUALIDADE DA ENERGIA ELETRICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT725",
+        "nome": "GERACAO DE ENERGIA ELETRICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT726",
+        "nome": "DISTRIBUICAO DE ENERGIA ELETRICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT727",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS ELETRICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT737",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS ELETRICOS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT738",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS ELETRICOS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT739",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS ELETRICOS III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT740",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS ELETRICOS IV",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT563"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI472",
+        "nome": "INTELIGENCIA COMPUTACIONAL PARA OTIMIZACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI488"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT713",
+        "nome": "CONTROLE DE SISTEMAS MULTIVARIAVEIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT714",
+        "nome": "CONTROLE DE SISTEMAS NAO LINEARES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT715",
+        "nome": "SISTEMAS DE CONTROLE ESTOCASTICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT716",
+        "nome": "SISTEMAS DE CONTROLE II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT717",
+        "nome": "IDENTIFICACAO DE SISTEMAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT555",
+            "ELT562"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT718",
+        "nome": "CONTROLE ADAPTATIVO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT719",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS DE CONTROLE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT555"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT728",
+        "nome": "CONTROLE DE ACIONAMENTOS ELETRICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT555"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT733",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS DE CONTROLE I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT734",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS DE CONTROLE II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT735",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS DE CONTROLE III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT736",
+        "nome": "TOPICOS ESPECIAIS EM SISTEMAS DE CONTROLE IV",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ELT114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    }
+]

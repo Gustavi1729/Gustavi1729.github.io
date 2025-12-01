@@ -1,0 +1,1151 @@
+[
+    {
+        "codigo": "BCC701",
+        "nome": "PROGRAMACAO DE COMPUTADORES I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST300",
+        "nome": "ESTATISTICA DESCRITIVA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST306",
+        "nome": "ESTATISTICA:PROFISSAO E MERCADO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM122",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 6,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM131",
+        "nome": "GEOMETRIA ANALITICA E CALCULO VETORIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC760",
+        "nome": "CALCULO NUMERICO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC701"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSO117",
+        "nome": "METODOLOGIA DE PESQUISA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST301",
+        "nome": "ESTATISTICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST303",
+        "nome": "PROBABILIDADE I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM123",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST004",
+        "nome": "PACOTES ESTATISTICOS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST301"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST009",
+        "nome": "DEMOGRAFIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST300"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST302",
+        "nome": "ESTATISTICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST301"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST304",
+        "nome": "PROBABILIDADE II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST303"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM112",
+        "nome": "INTRODUCAO A ALGEBRA LINEAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM131"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST007",
+        "nome": "METODOS NAO PARAMETRICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST302"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST008",
+        "nome": "TECNICAS DE AMOSTRAGEM I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST303"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST015",
+        "nome": "PLANEJAMENTO DE EXPERIMENTO I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST302"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST128",
+        "nome": "PACOTES ESTATISTICOS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST302"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST305",
+        "nome": "PROBABILIDADE III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST304"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST013",
+        "nome": "INFERENCIA ESTATISTICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST305"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST014",
+        "nome": "ESTATISTICA MULTIVARIADA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST302",
+            "MTM112"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST018",
+        "nome": "CONTROLE ESTATISTICO DE QUALIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST302"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST127",
+        "nome": "ANALISE DE REGRESSAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST302",
+            "MTM112"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST011",
+        "nome": "PROCESSOS ESTOCASTICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST305",
+            "MTM112"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST017",
+        "nome": "INFERENCIA ESTATISTICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST013"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST112",
+        "nome": "INFERENCIA BAYESIANA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST013"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST113",
+        "nome": "MODELOS LINEARES GENERALIZADOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST127"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST016",
+        "nome": "ANALISE DE SERIES TEMPORAIS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST127"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST019",
+        "nome": "ANALISE DE DADOS CATEGORICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST127"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST020",
+        "nome": "LABORATORIO SUPERVISIONADO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST014",
+            "EST127"
+        ],
+        "cargaHSemestral": 120,
+        "cargaHExtensionista": 0,
+        "cargaHA": 144,
+        "teoricas": 4,
+        "praticas": 4,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST023",
+        "nome": "ANALISE DE SOBREVIVENCIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST013"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST308",
+        "nome": "MONOGRAFIA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST017"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST024",
+        "nome": "PESQUISA DE OPINIAO E MERCADO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST014",
+            "EST019",
+            "EST127"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST307",
+        "nome": "MANIPULACAO E VISUALIZACAO DE DADOS USANDO O R",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST128"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST309",
+        "nome": "MONOGRAFIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST308"
+        ],
+        "cargaHSemestral": 180,
+        "cargaHExtensionista": 0,
+        "cargaHA": 216,
+        "teoricas": 12,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC342",
+        "nome": "INTRODUCAO A OTIMIZACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC701",
+            "BCC760"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC443",
+        "nome": "GEOPROCESSAMENTO E SISTEMAS DE INFORMACAO GEOGRAFICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC445",
+        "nome": "MODELAGEM E SIMULACAO DE SISTEMAS TERRESTRES",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC702",
+        "nome": "PROGRAMACAO DE COMPUTADORES II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC701"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV175",
+        "nome": "ECOLOGIA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV176",
+        "nome": "ECOLOGIA DE POPULACOES",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 4,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EST022",
+        "nome": "ESTATISTICA MULTIVARIADA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST014",
+            "EST017",
+            "EST127"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EST101",
+        "nome": "TECNICAS DE AMOSTRAGEM II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST008"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EST104",
+        "nome": "ESTATISTICA APLICADA A SAUDE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST302"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EST107",
+        "nome": "ESTATISTICA APLICADA A INDUSTRIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST302",
+            "MTM122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EST108",
+        "nome": "ESTATISTICA ESPACIAL APLICADA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST128"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EST110",
+        "nome": "ESTATISTICA COMPUTACIONAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST128"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EST111",
+        "nome": "ANALISE DE DADOS LONGITUDINAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST015"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EST114",
+        "nome": "MATEMATICA FINANCEIRA E ATUARIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST302"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EST125",
+        "nome": "INTRODUCAO A MINERACAO DE DADOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST014"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EST126",
+        "nome": "TEORIA DE RESPOSTA AO ITEM",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST013"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EST129",
+        "nome": "ESTATISTICA APLICADA A ECONOMIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST302"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EST130",
+        "nome": "REGRAS DE OURO DA ESTATISTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST017",
+            "EST127"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "LET112",
+        "nome": "LINGUA PORTUGUESA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "LET303",
+        "nome": "LINGUA INGLESA-LEITURA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "LET966",
+        "nome": "INTRODUCAO A LIBRAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MIN214",
+        "nome": "INTRODUCAO A ANALISE ESTATISTICAS DE EXPERIMENTOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST302"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MIN262",
+        "nome": "INTRODUCAO A GEOESTATISTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST302"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MTM110",
+        "nome": "TEORIA DOS NUMEROS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MTM120",
+        "nome": "ANALISE I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM122"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 6,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MTM124",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM123"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MTM125",
+        "nome": "INTRODUCAO AS EQUACOES DIFERENCIAIS ORDINARIAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MTM129",
+        "nome": "ELEMENTOS DE EQUACOES DIFERENCIAIS PARCIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM125"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MTM149",
+        "nome": "ANALISE II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM120"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 6,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MTM238",
+        "nome": "MEDIDA E INTEGRACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM149"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO215",
+        "nome": "PLANEJAMENTO E CONTROLE DA PRODUCAO I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO216",
+        "nome": "PLANEJAMENTO E CONTROLE DE PRODUCAO II",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO226",
+        "nome": "MACROECONOMIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO227",
+        "nome": "MICROECONOMIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO315",
+        "nome": "LOGISTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO320",
+        "nome": "ANALISE DE INVESTIMENTOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "SSO324",
+        "nome": "CIDADANIA E DIREITO SOCIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "SSO612",
+        "nome": "RACA/ETNIA, GENERO E SEXUALIDADES",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    }
+]

@@ -1,0 +1,2333 @@
+[
+    {
+        "codigo": "CEA038",
+        "nome": "QUIMICA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA039",
+        "nome": "QUIMICA GERAL EXPERIMENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA049",
+        "nome": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA050",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI002",
+        "nome": "ALGORITMOS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP042",
+        "nome": "INTRODUCAO A ENGENHARIA DE PRODUCAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEP028",
+        "nome": "METODOS E TECNICAS DE ESTUDOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA051",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA049",
+            "CEA050"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA061",
+        "nome": "FISICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA049",
+            "CEA050"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI003",
+        "nome": "ALGORITMOS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI002"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP043",
+        "nome": "ETICA E RESPONSABILIDADE SOCIOAMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP044",
+        "nome": "EXPRESSAO GRAFICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA052",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA050",
+            "CEA051"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA053",
+        "nome": "PROBABILIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA050",
+            "CEA051"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA056",
+        "nome": "INTRODUCAO AS EQUACOES DIFERENCIAIS ORDINARIAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA051"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA062",
+        "nome": "FISICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA038",
+            "CEA039",
+            "CEA051",
+            "CEA061"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP045",
+        "nome": "CIENCIA, TECNOLOGIA E SOCIEDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA054",
+        "nome": "ESTATISTICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA053"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA058",
+        "nome": "CALCULO NUMERICO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA051",
+            "CEA056",
+            "CEA062",
+            "CSI002"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA063",
+        "nome": "FISICA III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA038",
+            "CEA039",
+            "CEA052",
+            "CEA053"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA067",
+        "nome": "PRINCIPIOS DE CIENCIAS DE MATERIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA038",
+            "CEA039",
+            "CEA062"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP001",
+        "nome": "PROJETO DE EXTENSAO TECNOLOGICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 30,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP101",
+        "nome": "INTRODUCAO A METODOLOGIA DA PESQUISA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP045"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP003",
+        "nome": "PROCESSOS DE PRODUCAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA058",
+            "CEA063"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP006",
+        "nome": "PROJETO DE EXTENSAO TECNOLOGICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP001"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 30,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP012",
+        "nome": "PROGRAMACAO LINEAR E INTEIRA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA049",
+            "CSI002",
+            "CSI003"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP046",
+        "nome": "TEORIA DAS ORGANIZACOES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP101"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP047",
+        "nome": "ERGONOMIA",
+        "prerequisitoH": 750,
+        "prerequisitoD": [
+            "ENP101"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP157",
+        "nome": "ESTATISTICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA053",
+            "CEA054"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP007",
+        "nome": "LABORATORIO DE OTIMIZACAO COMBINATORIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP012"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP008",
+        "nome": "SEGURANCA DO TRABALHO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP047"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP015",
+        "nome": "MICROECONOMIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA052",
+            "CEA054"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP022",
+        "nome": "GESTAO DA QUALIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA054"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP048",
+        "nome": "CUSTOS INDUSTRIAIS",
+        "prerequisitoH": 1200,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP049",
+        "nome": "ORGANIZACAO DO TRABALHO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP047",
+            "ENP101"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP023",
+        "nome": "ENGENHARIA ECONOMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA053",
+            "CEA054",
+            "ENP015",
+            "ENP048"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP050",
+        "nome": "PSICOLOGIA DO TRABALHO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP049"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP122",
+        "nome": "PLANEJAMENTO E CONTROLE DE PRODUCAO I",
+        "prerequisitoH": 1200,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP141",
+        "nome": "CONTROLE ESTATISTICO DE QUALIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP022"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP154",
+        "nome": "PLANEJAMENTO ESTRATEGICO E MERCADOLOGICO",
+        "prerequisitoH": 1050,
+        "prerequisitoD": [
+            "ENP015"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP009",
+        "nome": "LOGISTICA E GESTAO DA CADEIA DE SUPRIMENTOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP003",
+            "ENP007",
+            "ENP012"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP051",
+        "nome": "SISTEMA DE DESENVOLVIMENTO DE PRODUTOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP023",
+            "ENP044",
+            "ENP157"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP123",
+        "nome": "PLANEJAMENTO E CONTROLE DE PRODUCAO II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI004",
+        "nome": "INTRODUCAO A TECNOLOGIA E SISTEMAS DE INFORMACAO",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP010",
+        "nome": "MODELAGEM DE SISTEMAS PRODUTIVOS E LOGISTICOS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA054",
+            "ENP007",
+            "ENP009",
+            "ENP122"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP013",
+        "nome": "SIMULACAO A EVENTOS DISCRETOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA053",
+            "CSI003",
+            "ENP007"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP016",
+        "nome": "ELABORACAO DE PROJETO DE CONCLUSAO DE CURSO",
+        "prerequisitoH": 2100,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP052",
+        "nome": "GESTAO DE PROJETOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP046",
+            "ENP122",
+            "ENP154"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP053",
+        "nome": "GESTAO DO CONHECIMENTO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP046",
+            "ENP154"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP020",
+        "nome": "MODELAGEM DE SISTEMAS PRODUTIVOS E LOGISTICOS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP010"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP021",
+        "nome": "TRABALHO DE CONCLUSAO DE CURSO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP016"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP029",
+        "nome": "GESTAO AMBIENTAL",
+        "prerequisitoH": 2100,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP054",
+        "nome": "GESTAO DE SERVICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP046",
+            "ENP049",
+            "ENP154"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA040",
+        "nome": "ESTRUTURA E DINAMICA DE REDES COMPLEXAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA049",
+            "CEA050",
+            "CEA054",
+            "CSI003"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CEA041",
+        "nome": "EXPLORACAO E VISUALIZACAO DE DADOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA054",
+            "CSI002"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CEA042",
+        "nome": "ALGEBRA E APLICACOES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA049",
+            "CEA050"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CEA043",
+        "nome": "APLICACOES DE ALGEBRA LINEAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA049",
+            "CEA050"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CEA044",
+        "nome": "INTRODUCAO AOS SISTEMAS DINAMICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA056"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CEA045",
+        "nome": "REDES BAYESIANAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA049",
+            "CEA050"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CEA046",
+        "nome": "ELETROQUIMICA APLICADA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA038",
+            "CEA039"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CEA047",
+        "nome": "PRINCIPIOS DE FISICO-QUIMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA038",
+            "CEA039"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CEA048",
+        "nome": "MODELAGEM MATEMATICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA056"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CEA064",
+        "nome": "FISICA IV",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA063"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CEA076",
+        "nome": "INTRODUCAO A LIBRAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI011",
+        "nome": "MATEMATICA DISCRETA",
+        "prerequisitoH": 1200,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI102",
+        "nome": "PROGRAMACAO DE COMPUTADORES II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI002"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI104",
+        "nome": "ALGORITMOS E ESTRUTURAS DE DADOS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI003"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI202",
+        "nome": "ORGANIZACAO E ARQUITETURA DE COMPUTADORES I",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [
+            "CSI002"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI301",
+        "nome": "REDES DE COMPUTADORES I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI003"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI403",
+        "nome": "ENGENHARIA DE SOFTWARE I",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [
+            "CSI003"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI404",
+        "nome": "ENGENHARIA DE SOFTWARE II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI403"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI405",
+        "nome": "GERENCIA DE PROJETOS DE SOFTWARE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI404"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI466",
+        "nome": "TEORIA DOS GRAFOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI003",
+            "CSI011"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI504",
+        "nome": "INTERACAO HUMANO-COMPUTADOR",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI403"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI546",
+        "nome": "PROJETO E ANALISE DE ALGORITMO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI466"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI601",
+        "nome": "FUNDAMENTOS DE SISTEMAS DE INFORMACAO",
+        "prerequisitoH": 1200,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI602",
+        "nome": "BANCO DE DADOS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI003"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI605",
+        "nome": "SISTEMAS DE APOIO A DECISAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI601",
+            "CSI602"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI609",
+        "nome": "ANALISE DE MIDIAS SOCIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI466"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI701",
+        "nome": "INTELIGENCIA ARTIFICIAL",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [
+            "CSI003"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI703",
+        "nome": "COMPUTACAO EVOLUCIONARIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI701",
+            "ENP012"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI704",
+        "nome": "APRENDIZAGEM DE MAQUINA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI701"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI802",
+        "nome": "GESTAO DA TECNOLOGIA DA INFORMACAO",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI804",
+        "nome": "GEOPROCESSAMENTO E SISTEMAS DE INFORMACAO GEOGRAFICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI602"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI901",
+        "nome": "INFORMATICA E SOCIEDADE",
+        "prerequisitoH": 1200,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DTE016",
+        "nome": "GLOBALIZACAO",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DTE071",
+        "nome": "FUNDAMENTOS FILOSOFICOS E SOCIOLOGICOS DA EDUCACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DTE108",
+        "nome": "FILOSOFIA DA TECNOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EAD627",
+        "nome": "MATRIZ ENERGETICA E DESENVOLVIMENTO",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EAD707",
+        "nome": "COMUNICACAO E EXPRESSAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT116",
+        "nome": "INFORMATICA INDUSTRIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI003",
+            "CSI301"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT502",
+        "nome": "ELETROMAGNETISMO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA052",
+            "CEA062"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT597",
+        "nome": "INSTALACOES ELETRICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA063"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT710",
+        "nome": "PROBABILIDADE E PROCESSOS ESTOCASTICOS PARA ENGENHARIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA052",
+            "CEA053",
+            "CEA054"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP011",
+        "nome": "ANALISE ERGONOMICA DO TRABALHO",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [
+            "ENP047"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP018",
+        "nome": "REDES DE EMPRESAS",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [
+            "ENP049"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP026",
+        "nome": "ADMINISTRACAO DE RECURSOS HUMANOS",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP027",
+        "nome": "AUTOMACAO DE SISTEMA DE PRODUCAO",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [
+            "ENP003"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP030",
+        "nome": "GESTAO DA INOVACAO MAIS RADICAL",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP031",
+        "nome": "ESTUDOS SOBRE CONSUMO",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP032",
+        "nome": "ANALISE DA DECISAO NA INCERTEZA",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP033",
+        "nome": "ESTRATEGIA DE CONHECIMENTO E INTELIGENCIA COMPETITIVA",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP034",
+        "nome": "LOGISTICA REVERSA",
+        "prerequisitoH": 2100,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP035",
+        "nome": "METODOLOGIA CIENTIFICA II",
+        "prerequisitoH": 1800,
+        "prerequisitoD": [
+            "ENP101"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP036",
+        "nome": "MODELAGEM DE SISTEMAS PRODUTIVOS E LOGISTICOS III",
+        "prerequisitoH": 2100,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP037",
+        "nome": "CRIACAO E DESIGN DE NOVOS NEGOCIOS",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP038",
+        "nome": "EXPERTISE EM INOVACAO",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP039",
+        "nome": "ENSAIOS DOS MATERIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA067"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP040",
+        "nome": "TECNOLOGIA DE LIGAS METALICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA067"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP041",
+        "nome": "PROCESSOS METALURGICOS DE FABRICACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA067"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP055",
+        "nome": "PREVENCAO AO ERRO HUMANO EM SISTEMAS PRODUTIVOS",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [
+            "ENP050"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP056",
+        "nome": "RELACOES DE TRABALHO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP046",
+            "ENP049"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP057",
+        "nome": "METODOS ESTATISTICOS EM CONFIABILIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA053",
+            "CEA054"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP058",
+        "nome": "GESTAO DE PROJETOS SOLIDARIOS",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP059",
+        "nome": "ERGONOMIA: METODOS E TECNICAS",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [
+            "ENP047"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP060",
+        "nome": "CRIATIVIDADE E METODOS CRIATIVOS EM ENGENHARIA",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP061",
+        "nome": "MODELOS ORGANIZACIONAIS DISRUPTIVOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP046",
+            "ENP049"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP062",
+        "nome": "TENDENCIAS E ESTUDOS DO FUTURO",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP063",
+        "nome": "PROCESSOS DE MANUFATURA AVANCADA",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [
+            "ENP003"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP129",
+        "nome": "ADMINISTRACAO FINANCEIRA",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [
+            "ENP023"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP460",
+        "nome": "GESTAO DA INFORMACAO",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP473",
+        "nome": "COMPORTAMENTO ORGANIZACIONAL",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [
+            "ENP049"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP493",
+        "nome": "EMPREENDEDORISMO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP046",
+            "ENP048",
+            "ENP154"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP525",
+        "nome": "ORGANIZACAO INDUSTRIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP049"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP526",
+        "nome": "PLANEJAMENTO DE EXPERIMENTOS INDUSTRIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA054"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP527",
+        "nome": "ENGENHARIA DE PROCESSOS, RISCOS E PERDAS",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [
+            "CEA054"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP529",
+        "nome": "ESTRATEGIA DE PRODUCAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP046",
+            "ENP122",
+            "ENP154"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP530",
+        "nome": "GESTAO POR PROCESSOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP022",
+            "ENP053"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP537",
+        "nome": "ECONOMETRIA",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [
+            "ENP015"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP545",
+        "nome": "GESTAO DA INOVACAO E TECNOLOGIA",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP546",
+        "nome": "PLANEJAMENTO ESTRATEGICO: IMPLANTACAO E CONTROLE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP154"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP547",
+        "nome": "PROCESSOS DECISORIOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP049",
+            "ENP154"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP548",
+        "nome": "TEORIA DA ESTRATEGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP154"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP549",
+        "nome": "ECONOMIA POLITICA DO PODER",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP050"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP554",
+        "nome": "SEGURANCA COMPORTAMENTAL NO TRABALHO",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [
+            "ENP050"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP556",
+        "nome": "ENGENHARIA DO TRABALHO",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [
+            "ENP047"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP557",
+        "nome": "HEURISTICAS E METAHEURISTICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI003",
+            "ENP007"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP558",
+        "nome": "PROGRAMACAO DINAMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA053",
+            "CSI003",
+            "ENP007"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP559",
+        "nome": "TEORIA DOS JOGOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA053",
+            "ENP007",
+            "ENP015",
+            "ENP023"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP560",
+        "nome": "OTIMIZACAO EM REDES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP007"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP562",
+        "nome": "CUSTEIO BASEADO EM ATIVIDADES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA054",
+            "ENP048"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP563",
+        "nome": "INVESTIMENTOS SOB INCERTEZA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA053",
+            "CEA054",
+            "ENP015",
+            "ENP023"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP564",
+        "nome": "MERCADO DE CAPITAIS DERIVATIVOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA053",
+            "CEA054",
+            "ENP015",
+            "ENP023"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP565",
+        "nome": "METODOS E TECNICAS APLICADOS AOS SIST DE PRODUCAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP122",
+            "ENP123"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP569",
+        "nome": "TOP EM LOGISTICA E GESTAO DA CADEIA DE SUPRIMENTOS",
+        "prerequisitoH": 2100,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP576",
+        "nome": "OTIMIZACAO DE SISTEMAS GRANDE PORTE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP007"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    }
+]

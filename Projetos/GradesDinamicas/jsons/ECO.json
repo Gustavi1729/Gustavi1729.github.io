@@ -1,0 +1,1334 @@
+[
+    {
+        "codigo": "CSO118",
+        "nome": "INTRODUCAO AS CIENCIAS SOCIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO001",
+        "nome": "FUNDAMENTOS DA TEORIA ECONOMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO002",
+        "nome": "CONTABILIDADE GERAL E ANALISE DE BALANCOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO003",
+        "nome": "FUNDAMENTOS DE MATEMATICA PARA A ECONOMIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO004",
+        "nome": "HISTORIA ECONOMICA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSO112",
+        "nome": "TOPICOS EM TEORIA POLITICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO005",
+        "nome": "MATEMATICA PARA ECONOMIA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO003"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO006",
+        "nome": "HISTORIA DO PENSAMENTO ECONOMICO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO004"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO123",
+        "nome": "CONTABILIDADE NACIONAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO001"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO007",
+        "nome": "ESTATISTICA ECONOMICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO005"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO008",
+        "nome": "MATEMATICA PARA ECONOMIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO005"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO009",
+        "nome": "MACROECONOMIA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO005",
+            "ECO123"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO143",
+        "nome": "ECONOMIA POLITICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO006"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO010",
+        "nome": "TEORIA MICROECONOMICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO008"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO011",
+        "nome": "ESTATISTICA ECONOMICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO007"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO012",
+        "nome": "MACROECONOMIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO009"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO013",
+        "nome": "MATEMATICA PARA ECONOMIA III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO005"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO168",
+        "nome": "FORMACAO ECONOMICA BRASILEIRA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO014",
+        "nome": "TEORIA MICROECONOMICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO010"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO015",
+        "nome": "MACROECONOMIA III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO009"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO016",
+        "nome": "ECONOMETRIA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO011"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO040",
+        "nome": "HISTORIA ECONOMICA CONTEMPORANEA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO166",
+        "nome": "ENGENHARIA ECONOMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO003"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO017",
+        "nome": "TEORIA MICROECONOMICA III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO014"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO018",
+        "nome": "ECONOMIA BRASILEIRA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO168"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO019",
+        "nome": "MACROECONOMIA IV: TEORIAS DO CRESCIMENTO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO012"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO020",
+        "nome": "TECNICAS DE PESQUISA EM ECONOMIA I",
+        "prerequisitoH": 1380,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO021",
+        "nome": "ECONOMIA MONETARIA E FINANCEIRA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO009"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO022",
+        "nome": "ECONOMIA BRASILEIRA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO018",
+            "ECO040"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO023",
+        "nome": "TECNICAS DE PESQUISA EM ECONOMIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO020"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO453",
+        "nome": "ECONOMIA INTERNACIONAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO012"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO024",
+        "nome": "ECONOMIA DO SETOR PUBLICO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO009",
+            "ECO014"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ECO025",
+        "nome": "DESENVOLVIMENTO ECONOMICO E SOCIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO009"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSO117",
+        "nome": "METODOLOGIA DE PESQUISA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR524",
+        "nome": "DIREITO FINANCEIRO E TRIBUTARIO I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR525",
+        "nome": "DIREITO FINANCEIRO E TRIBUTARIO II",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO026",
+        "nome": "HISTORIA DO PENSAMENTO ECONOMICO II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO006"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO027",
+        "nome": "ECONOMIA REGIONAL E URBANA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO028",
+        "nome": "ECONOMIA MONETARIA E FINANCEIRA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO021"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO029",
+        "nome": "HISTORIA DO PENSAMENTO ECONOMICO III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO006"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO030",
+        "nome": "ELEMENTOS AVANCADOS DE MATEMATICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO031",
+        "nome": "ECONOMETRIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO016"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO032",
+        "nome": "ECONOMETRIA III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO016"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO041",
+        "nome": "ECONOMIA DOS RECURSOS NATURAIS E AMBIENTAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO010"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO042",
+        "nome": "ECONOMIA INSTITUCIONAL - ESCOLA FRANCESA DA REGULACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO044",
+        "nome": "TOPICOS ESPECIAIS EM ECONOMIA: MICROECONOMIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO014"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO045",
+        "nome": "TOPICOS ESPECIAIS EM ECONOMIA: MACROECONOMIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO012"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO046",
+        "nome": "ELEMENTOS AVANCADOS DE ESTATISTICA E ECONOMETRIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO011"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO047",
+        "nome": "INTRODUCAO A ECONOMETRIA PARA AVALIACAO DE POLITICAS PUBLICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO016"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO048",
+        "nome": "ECONOMIA INDUSTRIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO014"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO049",
+        "nome": "SOCIOLOGIA ECONOMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO050",
+        "nome": "FINANCAS COMPORTAMENTAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO166"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO051",
+        "nome": "ESTATISTICA DESCRITIVA E BASES DE DADOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO003"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO052",
+        "nome": "ECONOMIA INDUSTRIAL E INOVACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO053",
+        "nome": "ANALISE MULTIVARIADA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO016"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO065",
+        "nome": "SEMINARIO DE EXTENSAO II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO066"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 90,
+        "cargaHA": 108,
+        "teoricas": 0,
+        "praticas": 6,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO066",
+        "nome": "SEMINARIO DE EXTENSAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 90,
+        "cargaHA": 108,
+        "teoricas": 0,
+        "praticas": 6,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO067",
+        "nome": "TOPICOS EM ECONOMIA COMPUTACIONAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO005"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO074",
+        "nome": "TOPICOS ESPECIAIS EM MERCADO DE TRABALHO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 90,
+        "cargaHA": 108,
+        "teoricas": 0,
+        "praticas": 6,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO126",
+        "nome": "FORMACAO ECONOMICA DO CAPITALISMO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO134",
+        "nome": "ELABORACAO E ANALISE DE PROJETOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO187",
+        "nome": "ECONOMIA CONTEMPORANEA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO022"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO432",
+        "nome": "ECONOMIA DO TRABALHO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO009",
+            "ECO010"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO459",
+        "nome": "TEORIA DOS JOGOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO010"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO472",
+        "nome": "MATEMATICA PARA ECONOMIA IV",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO013"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO473",
+        "nome": "ETICA E ECONOMIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO475",
+        "nome": "ANTROPOLOGIA ECONOMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO476",
+        "nome": "MERCADO DE CAPITAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO166"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO477",
+        "nome": "SOCIOLOGIA DOS MERCADOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO481",
+        "nome": "ECONOMIA POLITICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO482",
+        "nome": "ECONOMIA SOLIDARIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO485",
+        "nome": "TEMAS DE CAPITALISMO CONTEMPORANEO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO490",
+        "nome": "TOPICOS ESPECIAIS EM ECONOMIA: TEORIA ECONOMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO494",
+        "nome": "TEORIA ECONOMICA E AS CRISES DO CAPITALISMO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO495",
+        "nome": "ECONOMIA DA CULTURA E DO ENTRETENIMENTO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO496",
+        "nome": "ECONOMIA POLITICA DA AMERICA LATINA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO541",
+        "nome": "FINANCAS EMPIRICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO016"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO542",
+        "nome": "ECONOMIA INDUSTRIAL APLICADA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO014"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO543",
+        "nome": "ECONOMIA DA CULTURA E DO ENTRETENIMENTO II: POLITICA CULTURAL E INCENTIVOS FISCAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ECO563",
+        "nome": "PENSAMENTO ECONOMICO BRASILEIRO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ECO006"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "HIS128",
+        "nome": "HISTORIA DO BRASIL III",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "HIS134",
+        "nome": "HISTORIA DO BRASIL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "HIS166",
+        "nome": "HISTORIA MODERNA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "HIS177",
+        "nome": "INTRODUCAO A HISTORIA ECONOMICA DO BRASIL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "HIS236",
+        "nome": "HISTORIA DE MINAS GERAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "LET966",
+        "nome": "INTRODUCAO A LIBRAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO704",
+        "nome": "METODOS MATEMATICOS DA ENGENHARIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO706",
+        "nome": "PESQUISA OPERACIONAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    }
+]

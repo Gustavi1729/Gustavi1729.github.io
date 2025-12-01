@@ -1,0 +1,1887 @@
+[
+    {
+        "codigo": "BEV712",
+        "nome": "GENETICA BASICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI001",
+        "nome": "BIOQUIMICA E BIOLOGIA MOLECULAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 120,
+        "cargaHExtensionista": 0,
+        "cargaHA": 144,
+        "teoricas": 6,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI002",
+        "nome": "BIOLOGIA CELULAR E HISTOLOGIA BASICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI301",
+        "nome": "ANATOMIA HUMANA BASICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI617",
+        "nome": "EMBRIOLOGIA HUMANA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CPA001",
+        "nome": "SUPORTE BASICO DE VIDA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MSC028",
+        "nome": "PRATICAS EM SAUDE I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 15,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MSC029",
+        "nome": "SAUDE E SOCIEDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 15,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ACL703",
+        "nome": "IMUNOLOGIA BASICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI001",
+            "CBI002",
+            "CBI617"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI003",
+        "nome": "FISIOLOGIA DOS SISTEMAS CELULAR, MUSCULAR E NERVOSO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI001",
+            "CBI301"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 4,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI004",
+        "nome": "HISTOLOGIA DOS SISTEMAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI002"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI005",
+        "nome": "EMBRIOLOGIA DOS SISTEMAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI617"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CGP027",
+        "nome": "ANATOMIA MEDICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI301"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 15,
+        "cargaHA": 108,
+        "teoricas": 2,
+        "praticas": 4,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST204",
+        "nome": "BIOESTATISTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MSC003",
+        "nome": "MEDICINA CIENCIA E SOCIEDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MSC029"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MSC030",
+        "nome": "PRATICAS EM SAUDE II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MSC028"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 30,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI006",
+        "nome": "FISIOLOGIA DOS SISTEMAS CARDIOVASCULAR, RESPIRATORIO E RENAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI001",
+            "CBI301"
+        ],
+        "cargaHSemestral": 120,
+        "cargaHExtensionista": 0,
+        "cargaHA": 144,
+        "teoricas": 4,
+        "praticas": 4,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI713",
+        "nome": "MICROBIOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV712",
+            "CBI001",
+            "CBI002"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI714",
+        "nome": "PARASITOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ACL703",
+            "CBI301"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CGP002",
+        "nome": "ANATOMIA MEDICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP027"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MSC031",
+        "nome": "PRATICAS EM SAUDE III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MSC030"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 30,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MSC032",
+        "nome": "EPIDEMIOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST204"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 15,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MSC033",
+        "nome": "PSICOLOGIA MEDICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MSC003"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 30,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI007",
+        "nome": "FISIOLOGIA DOS SISTEMAS DIGESTORIO E ENDOCRINO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI001",
+            "CBI301"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI715",
+        "nome": "PATOLOGIA GERAL MEDICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI004"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 3,
+        "praticas": 3,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CGP003",
+        "nome": "ANATOMIA MEDICA III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP002"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CPA028",
+        "nome": "SEMIOLOGIA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI006",
+            "CGP002"
+        ],
+        "cargaHSemestral": 105,
+        "cargaHExtensionista": 45,
+        "cargaHA": 1126,
+        "teoricas": 2,
+        "praticas": 5,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR056",
+        "nome": "FARMACOLOGIA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI006"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MSC008",
+        "nome": "ENTREVISTA CLINICA CENTRADA NA PESSOA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MSC031"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MSC009",
+        "nome": "ANTROPOLOGIA DA SAUDE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MSC031",
+            "MSC032"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MSC034",
+        "nome": "POLITICAS, PLANEJAMENTO E GESTAO EM SAUDE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MSC032"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 30,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CGP004",
+        "nome": "ANATOMIA PATOLOGICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI007",
+            "CBI715",
+            "CGP003"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 3,
+        "praticas": 3,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CPA029",
+        "nome": "SEMIOLOGIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI007",
+            "CPA028"
+        ],
+        "cargaHSemestral": 105,
+        "cargaHExtensionista": 60,
+        "cargaHA": 126,
+        "teoricas": 2,
+        "praticas": 5,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CPA030",
+        "nome": "SEMIOLOGIA PEDIATRICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CPA028"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 15,
+        "cargaHA": 90,
+        "teoricas": 1,
+        "praticas": 4,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR057",
+        "nome": "FARMACOLOGIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI007",
+            "FAR056"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MSC011",
+        "nome": "PSICOPATOLOGIA E SEMIOLOGIA DOS TRANSTORNOS MENTAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MSC033"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MSC012",
+        "nome": "PRATICAS DE SAUDE BASEADA EM EVIDENCIAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MSC008",
+            "MSC032"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MSC035",
+        "nome": "VIGILANCIA EM SAUDE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MSC034"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 15,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CGP006",
+        "nome": "PATOLOGIA CLINICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP004"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CGP007",
+        "nome": "MEDICINA LEGAL E DEONTOLOGIA MEDICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP004"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CGP028",
+        "nome": "ANATOMIA PATOLOGICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI007",
+            "CBI715"
+        ],
+        "cargaHSemestral": 105,
+        "cargaHExtensionista": 15,
+        "cargaHA": 126,
+        "teoricas": 4,
+        "praticas": 3,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CPA031",
+        "nome": "SEMIOLOGIA III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CPA029"
+        ],
+        "cargaHSemestral": 135,
+        "cargaHExtensionista": 30,
+        "cargaHA": 162,
+        "teoricas": 1,
+        "praticas": 8,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CPA032",
+        "nome": "SEMIOLOGIA PEDIATRICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CPA030"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 30,
+        "cargaHA": 90,
+        "teoricas": 1,
+        "praticas": 4,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MSC036",
+        "nome": "SAUDE, TRABALHO E AMBIENTE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MSC035"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 15,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CGP008",
+        "nome": "RADIOLOGIA E METODOS DE IMAGEM",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP028"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CGP009",
+        "nome": "PATOLOGIA CLINICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP006"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CGP010",
+        "nome": "CLINICA CIRURGICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP004",
+            "CPA031"
+        ],
+        "cargaHSemestral": 120,
+        "cargaHExtensionista": 0,
+        "cargaHA": 144,
+        "teoricas": 2,
+        "praticas": 6,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CPA033",
+        "nome": "MEDICINA GERAL DE ADULTOS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CPA031"
+        ],
+        "cargaHSemestral": 150,
+        "cargaHExtensionista": 30,
+        "cargaHA": 180,
+        "teoricas": 2,
+        "praticas": 8,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CPA034",
+        "nome": "MEDICINA GERAL DAS CRIANCAS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CPA032"
+        ],
+        "cargaHSemestral": 150,
+        "cargaHExtensionista": 60,
+        "cargaHA": 180,
+        "teoricas": 2,
+        "praticas": 8,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MSC037",
+        "nome": "NOSOLOGIA E CUIDADOS EM SAUDE MENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MSC011"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 45,
+        "cargaHA": 72,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CGP029",
+        "nome": "MEDICINA DA MULHER",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP028",
+            "CPA031"
+        ],
+        "cargaHSemestral": 120,
+        "cargaHExtensionista": 60,
+        "cargaHA": 144,
+        "teoricas": 2,
+        "praticas": 6,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CGP030",
+        "nome": "CLINICA CIRURGICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP010"
+        ],
+        "cargaHSemestral": 120,
+        "cargaHExtensionista": 60,
+        "cargaHA": 144,
+        "teoricas": 2,
+        "praticas": 6,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CPA035",
+        "nome": "MEDICINA GERAL DA CRIANCA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CPA034"
+        ],
+        "cargaHSemestral": 150,
+        "cargaHExtensionista": 60,
+        "cargaHA": 180,
+        "teoricas": 2,
+        "praticas": 8,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CPA036",
+        "nome": "MEDICINA GERAL DE ADULTOS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CPA033"
+        ],
+        "cargaHSemestral": 150,
+        "cargaHExtensionista": 30,
+        "cargaHA": 180,
+        "teoricas": 2,
+        "praticas": 8,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MSC038",
+        "nome": "MEDICINA DE FAMILIA E COMUNIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CPA033",
+            "CPA034",
+            "MSC037"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 15,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CGP014",
+        "nome": "INTERNATO AMBULATORIAL E HOSPITALAR EM URGENCIA E EMERGENCIA CIRURGICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP029",
+            "CGP030",
+            "CPA035",
+            "CPA036",
+            "MSC038"
+        ],
+        "cargaHSemestral": 228,
+        "cargaHExtensionista": 0,
+        "cargaHA": 228,
+        "teoricas": 2,
+        "praticas": 17,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CGP031",
+        "nome": "INTERNATO EM ATENCAOSECUNDARIA – MODULO CIRURGICO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP029",
+            "CGP030",
+            "CPA035",
+            "CPA036",
+            "MSC038"
+        ],
+        "cargaHSemestral": 120,
+        "cargaHExtensionista": 0,
+        "cargaHA": 120,
+        "teoricas": 2,
+        "praticas": 8,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CPA012",
+        "nome": "INTERNATO AMBULATORIAL E HOSPITALAR EM URGENCIA E EMERGENCIA CLINICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP029",
+            "CGP030",
+            "CPA035",
+            "CPA036",
+            "MSC038"
+        ],
+        "cargaHSemestral": 228,
+        "cargaHExtensionista": 0,
+        "cargaHA": 228,
+        "teoricas": 2,
+        "praticas": 17,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CPA037",
+        "nome": "INTERNATO EM ATENCAO SECUNDARIA – MODULO CLINICO (II)",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP029",
+            "CGP030",
+            "CPA035",
+            "CPA036",
+            "MSC038"
+        ],
+        "cargaHSemestral": 120,
+        "cargaHExtensionista": 0,
+        "cargaHA": 120,
+        "teoricas": 2,
+        "praticas": 8,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MSC017",
+        "nome": "INTERNATO AMBULATORIAL E HOSPITALAR EM SAUDE MENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP029",
+            "CGP030",
+            "CPA035",
+            "CPA036",
+            "MSC038"
+        ],
+        "cargaHSemestral": 204,
+        "cargaHExtensionista": 0,
+        "cargaHA": 204,
+        "teoricas": 3,
+        "praticas": 14,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CGP015",
+        "nome": "INTERNATO AMBULATORIAL E HOSPITALAR EM CIRURGIA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP029",
+            "CGP030",
+            "CPA035",
+            "CPA036",
+            "MSC038"
+        ],
+        "cargaHSemestral": 372,
+        "cargaHExtensionista": 0,
+        "cargaHA": 372,
+        "teoricas": 3,
+        "praticas": 28,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CPA013",
+        "nome": "INTERNATO AMBULATORIAL E HOSPITALAR EM CLINICA MEDICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP029",
+            "CGP030",
+            "CPA035",
+            "CPA036",
+            "MSC038"
+        ],
+        "cargaHSemestral": 372,
+        "cargaHExtensionista": 0,
+        "cargaHA": 372,
+        "teoricas": 3,
+        "praticas": 28,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CGP016",
+        "nome": "INTERNATO AMBULATORIAL E HOSPITALAR EM GINECOLOGIA E OBSTETRICIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP029",
+            "CGP030",
+            "CPA035",
+            "CPA036",
+            "MSC038"
+        ],
+        "cargaHSemestral": 372,
+        "cargaHExtensionista": 0,
+        "cargaHA": 372,
+        "teoricas": 3,
+        "praticas": 28,
+        "periodo": 11,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CPA014",
+        "nome": "INTERNATO AMBULATORIAL E HOSPITALAR EM PEDIATRIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP029",
+            "CGP030",
+            "CPA035",
+            "CPA036",
+            "MSC038"
+        ],
+        "cargaHSemestral": 372,
+        "cargaHExtensionista": 0,
+        "cargaHA": 372,
+        "teoricas": 3,
+        "praticas": 28,
+        "periodo": 11,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MSC018",
+        "nome": "INTERNATO AMBULATORIAL EM MEDICINA DE FAMILIA E COMUNIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP029",
+            "CGP030",
+            "CPA035",
+            "CPA036",
+            "MSC038"
+        ],
+        "cargaHSemestral": 456,
+        "cargaHExtensionista": 0,
+        "cargaHA": 456,
+        "teoricas": 3,
+        "praticas": 16,
+        "periodo": 12,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MSC019",
+        "nome": "INTERNATO EM SAUDE COLETIVA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP029",
+            "CGP030",
+            "CPA035",
+            "CPA036",
+            "MSC038"
+        ],
+        "cargaHSemestral": 240,
+        "cargaHExtensionista": 0,
+        "cargaHA": 240,
+        "teoricas": 2,
+        "praticas": 8,
+        "periodo": 12,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ACL013",
+        "nome": "PARASITOLOGIA HUMANA E CLINICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI714"
+        ],
+        "cargaHSemestral": 120,
+        "cargaHExtensionista": 0,
+        "cargaHA": 144,
+        "teoricas": 5,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ACL015",
+        "nome": "HEMATOLOGIA CLINICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI715",
+            "CPA028"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 4,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ACL401",
+        "nome": "CITOLOGIA DO COLO DO UTERO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI715"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ACL403",
+        "nome": "BIOQUIMICA CLINICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI006",
+            "CBI007"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ACL600",
+        "nome": "BIOQUIMICA CLINICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI006",
+            "CBI007"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV271",
+        "nome": "EVOLUCAO HUMANA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV712"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV272",
+        "nome": "GENETICA FORENSE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV712"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV273",
+        "nome": "TECNICAS MOLECULARES APLICADAS AO DIAGNOSTICO DE DOENCAS GENETICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV712"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAT178",
+        "nome": "INTRODUCAO AS TECNOLOGIAS DA INDUSTRIA 4.0",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI009",
+        "nome": "TOPICOS DE BIOQUIMICA, BIOQUIMICA CLINICA E CORRELACOES CLINICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI010",
+        "nome": "VIROLOGIA CLINICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI713"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI013",
+        "nome": "VENTILACAO MECANICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI007",
+            "CBI715",
+            "CGP003",
+            "CPA028",
+            "FAR056",
+            "MSC008",
+            "MSC009",
+            "MSC034"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI020",
+        "nome": "FUNDAMENTOS DE REPRODUCAO HUMANA ASSISTIDA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI617"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI283",
+        "nome": "BIOTECNOLOGIA PARA DIAGNOSTICO NA SAUDE",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI619",
+        "nome": "TOPICOS ESPECIAIS EM ANATOMIA HUMANA APLICADA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI301"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI751",
+        "nome": "ANATOMIA RADIOLOGICA HUMANA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI301"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CGP017",
+        "nome": "ENDOCRINOLOGIA FEMININA E REPRODUCAO.",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP028"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CGP018",
+        "nome": "DIAGNOSTICO E TRATAMENTO DAS DOENCAS DA MAMA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP028"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CGP019",
+        "nome": "HISTORIA DA MEDICINA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CGP020",
+        "nome": "SAUDE E ESPIRITUALIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CGP022",
+        "nome": "DISCUSSAO DE CASOS CLINICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CPA036"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CGP023",
+        "nome": "GESTAO EM SAUDE DA MULHER",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CPA033"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 0,
+        "praticas": 4,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CGP024",
+        "nome": "GASTROENTEROLOGIA E ENDOSCOPIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP028",
+            "CPA031"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CGP025",
+        "nome": "CIRURGIA AMBULATORIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP028",
+            "CPA031"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CGP026",
+        "nome": "ULTRASSONOGRAFIA NA PRATICA CLINICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP008"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CPA015",
+        "nome": "INFECTOLOGIA E MEDICINA TROPICAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CPA031"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CPA016",
+        "nome": "SUPORTE AVANCADO DE VIDA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CPA033"
+        ],
+        "cargaHSemestral": 105,
+        "cargaHExtensionista": 0,
+        "cargaHA": 126,
+        "teoricas": 3,
+        "praticas": 4,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CPA017",
+        "nome": "ELETROCARDIOGRAFIA CLINICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CPA030"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CPA018",
+        "nome": "NEOPLASIAS CUTANEAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP028",
+            "CPA028"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CPA019",
+        "nome": "PRATICA PEDIATRICA HOSPITALAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CPA034"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 1,
+        "praticas": 5,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CPA020",
+        "nome": "NEFROLOGIA CLINICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP028",
+            "CPA031"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CPA021",
+        "nome": "ANTIBIOTICOTERAPIA CLINICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CPA032",
+            "FAR057"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CPA022",
+        "nome": "URGENCIAS E EMERGENCIAS PEDIATRICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CPA034"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CPA023",
+        "nome": "NEFROLOGIA PEDIATRICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CGP004",
+            "CPA032"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CPA024",
+        "nome": "FUNDAMENTOS DA HOMEOPATIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CPA032"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CPA025",
+        "nome": "QUALIDADE DE VIDA (QV)",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CPA027",
+        "nome": "CARDIOLOGIA PEDIATRICA (CP)",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CPA030"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR011",
+        "nome": "FARMACOEPIDEMIOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR057",
+            "MSC032"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR021",
+        "nome": "TOXICOLOGIA GERAL E DOS ALIMENTOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR056"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR033",
+        "nome": "HUMANIZACAO DOS CUIDADOS EM SAUDE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MSC031"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR406",
+        "nome": "FITOTERAPIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR056"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "LET966",
+        "nome": "INTRODUCAO A LIBRAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MSC021",
+        "nome": "PRATICAS INTEGRATIVAS NA PRODUCAO DO CUIDADO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MSC022",
+        "nome": "MEDICINA E SAUDE COLETIVA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MSC023",
+        "nome": "NARRATIVAS NAS PRATICAS EM SAUDE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CPA037"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MSC024",
+        "nome": "ATENCAO DOMICILIAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MSC008"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MSC025",
+        "nome": "SEMINARIOS DE PSICANALISE",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MSC039",
+        "nome": "CLINICA DA PSICANALISE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MSC011",
+            "MSC033",
+            "MSC037"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MSC040",
+        "nome": "GEOGRAFIA DA SAUDE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MSC032"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    }
+]

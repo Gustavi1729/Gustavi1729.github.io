@@ -1,0 +1,1735 @@
+[
+    {
+        "codigo": "AMB101",
+        "nome": "INTRODUCAO A ENGENHARIA AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "AMB113",
+        "nome": "FUNDAMENTOS DE BIOLOGIA CELULAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO110",
+        "nome": "GEOLOGIA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM122",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 6,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM730",
+        "nome": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI200",
+        "nome": "QUIMICA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 4,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ARQ212",
+        "nome": "EXPRESSAO GRAFICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC701",
+        "nome": "PROGRAMACAO DE COMPUTADORES I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS106",
+        "nome": "FUNDAMENTOS DE MECANICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO113",
+        "nome": "MINERAIS, ROCHAS E SOLOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO110"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM123",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI153",
+        "nome": "QUIMICA ORGANICA AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI200"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "AMB102",
+        "nome": "OCUPACAO E PLANEJAMENTO TERRITORIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO113"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV214",
+        "nome": "ECOLOGIA BASICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS107",
+        "nome": "FUNDAMENTOS DE TERMODINAMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS108",
+        "nome": "FUNDAMENTOS DE FLUIDOS, OSCILACOES E ONDAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM124",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM125",
+        "nome": "INTRODUCAO AS EQUACOES DIFERENCIAIS ORDINARIAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC701",
+            "MTM123"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI117",
+        "nome": "FISICO-QUIMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM123",
+            "QUI200"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 4,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ARQ202",
+        "nome": "TOPOGRAFIA A",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV208",
+        "nome": "ECOSSISTEMAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV214"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI012",
+        "nome": "MICROBIOLOGIA AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "AMB113"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI078",
+        "nome": "PROSPECCAO MICROBIANA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "AMB113"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST202",
+        "nome": "ESTATISTICA E PROBABILIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS109",
+        "nome": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM124"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO169",
+        "nome": "GEOQUIMICA AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO113"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MEC124",
+        "nome": "FENOMENOS DE TRANSPORTE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS108"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "AMB107",
+        "nome": "PRINCIPIOS DE BIOTECNOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS107"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "AMB112",
+        "nome": "CARTOGRAFIA APLICADA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ARQ202"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "AMB115",
+        "nome": "CLIMATOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CIV271",
+        "nome": "HIDRAULICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MEC124"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CIV610",
+        "nome": "RESISTENCIA DOS MATERIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106",
+            "MTM124"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS105",
+        "nome": "FUNDAMENTOS DE FISICA EXPERIMENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106",
+            "FIS107",
+            "FIS108"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO115",
+        "nome": "EROSAO E DEPOSICAO DE SEDIMENTOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "AMB102"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "AMB105",
+        "nome": "OPERACOES UNITARIAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MEC124"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "AMB114",
+        "nome": "GEOPROCESSAMENTO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "AMB112"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "AMB118",
+        "nome": "DEGRADACAO E POLUICAO AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV208",
+            "GEO169"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CIV226",
+        "nome": "HIDROLOGIA APLICADA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST202",
+            "MEC124"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CIV273",
+        "nome": "TRANSPORTE DE SEDIMENTOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CIV271"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MIN101",
+        "nome": "PROCESSOS EM MINERACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO113"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MIN215",
+        "nome": "GEOTECNIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CIV610",
+            "GEO113",
+            "MEC124"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "AMB119",
+        "nome": "FONTES ENERGETICAS E MEIO AMBIENTE",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR751",
+        "nome": "DIREITO AMBIENTAL",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR102",
+        "nome": "EPIDEMIOLOGIA AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST202"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FAR103",
+        "nome": "METODOS BIOLOGICOS DE TRATAMENTO DE RESIDUOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "AMB107"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO126",
+        "nome": "HIDROGEOLOGIA AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "AMB102",
+            "CIV226"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MET205",
+        "nome": "PROCESSOS EM METALURGIA",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "PRO241",
+        "nome": "ECONOMIA I",
+        "prerequisitoH": 1150,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "PRO243",
+        "nome": "ORGANIZACAO E ADMINISTRACAO I",
+        "prerequisitoH": 1150,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "AMB176",
+        "nome": "AVALIACAO DE IMPACTO E LICENCIAMENTO AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR751"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CIV274",
+        "nome": "SISTEMAS HIDRAULICOS E SANITARIOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CIV271"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MET206",
+        "nome": "RESIDUOS SOLIDOS E EFLUENTES NA METALURGIA",
+        "prerequisitoH": 1800,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MIN102",
+        "nome": "TRATAMENTO DE EFLUENTES NA MINERACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MIN101"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "PRO242",
+        "nome": "ECONOMIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "PRO241"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "PRO244",
+        "nome": "ORGANIZACAO E ADMINISTRACAO II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "PRO243"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "AMB106",
+        "nome": "TRATAMENTO DE EFLUENTES GASOSOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "AMB105"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "AMB109",
+        "nome": "TRABALHO DE GRADUACAO I",
+        "prerequisitoH": 2700,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "AMB128",
+        "nome": "INSTRUMENTOS DE PLAN. E SIST. DE GESTAO AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "AMB176"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "AMB392",
+        "nome": "ESTAGIO CURRICULAR",
+        "prerequisitoH": 1800,
+        "prerequisitoD": [],
+        "cargaHSemestral": 160,
+        "cargaHExtensionista": 0,
+        "cargaHA": 160,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CIV275",
+        "nome": "TRATAMENTO DE RESIDUOS SOLIDOS URBANOS",
+        "prerequisitoH": 2700,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CIV423",
+        "nome": "TRATAMENTO DE ESGOTOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CIV274"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MET207",
+        "nome": "METALURGIA E MEIO AMBIENTE",
+        "prerequisitoH": 1800,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MIN103",
+        "nome": "MINERACAO E MEIO AMBIENTE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MIN101"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "AMB108",
+        "nome": "TRABALHO DE GRADUACAO II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "AMB109"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "AMB301",
+        "nome": "GESTAO DA QUALIDADE DO AR",
+        "prerequisitoH": 1800,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "AMB302",
+        "nome": "VISITAS TECNICAS EM ENGENHARIA AMBIENTAL",
+        "prerequisitoH": 1800,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 0,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "AMB303",
+        "nome": "SEMINARIOS EM ENGENHARIA AMBIENTAL",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "AMB304",
+        "nome": "AUDITORIAS E PERICIAS AMBIENTAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "AMB176"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "AMB306",
+        "nome": "ECOLOGIA INDUSTRIAL E SUSTENTABILIDADE",
+        "prerequisitoH": 1650,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "AMB307",
+        "nome": "CONTAMINACAO E REMEDIACAO:SOLO E AGUA SUBTERRANEA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO126",
+            "GEO169",
+            "MIN215"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC445",
+        "nome": "MODELAGEM E SIMULACAO DE SISTEMAS TERRESTRES",
+        "prerequisitoH": 900,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC702",
+        "nome": "PROGRAMACAO DE COMPUTADORES II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC701"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV180",
+        "nome": "LIMNOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV182",
+        "nome": "EDUCACAO AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV202",
+        "nome": "BIOGEOGRAFIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV214"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV263",
+        "nome": "ECOLOGIA AQUATICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV208",
+            "BEV214"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI213",
+        "nome": "PATOLOGIA AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CIV424",
+        "nome": "GERENCIAMENTO DE RECURSOS HIDRICOS A",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CIV271"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CIV425",
+        "nome": "SIMULACAO DA QUALIDADE DA AGUA EM RIOS E ESTUARIOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CIV271"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CIV428",
+        "nome": "DRENAGEM URBANA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSO117",
+        "nome": "METODOLOGIA DE PESQUISA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR031",
+        "nome": "ECOTOXICOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV208",
+            "QUI153"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR402",
+        "nome": "QUALIDADE DE AGUAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI200"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIL200",
+        "nome": "INTRODUCAO A FILOSOFIA DA CIENCIA DAS IDEIAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS110",
+        "nome": "FUNDAMENTOS DE OPTICA E QUANTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS109"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO137",
+        "nome": "TECNICAS INSTRUMENTAIS EM GEOQUIMICA AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO169",
+            "QUI117"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO164",
+        "nome": "PEDOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "AMB102"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 2,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO227",
+        "nome": "PROCESSAMENTO DIGITAL DE IMAGENS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO297",
+        "nome": "GEOLOGIA DE ENGENHARIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MIN215"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO308",
+        "nome": "DIAGNOSTICO GEOHIDROLOGICO AMBIENTAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO126"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "LET966",
+        "nome": "INTRODUCAO A LIBRAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MIN105",
+        "nome": "REC. AREAS DEGRADADAS PELA MINERACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "AMB118"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MIN111",
+        "nome": "MECANICA DAS ROCHAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MIN215"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MIN217",
+        "nome": "GEOTECNIA DE MEIOS URBANOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MIN215"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MIN220",
+        "nome": "MANEJO DE ESTEREIS E REJEITOS DE MINERACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MIN215"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MIN243",
+        "nome": "ESTABILIDADE DE TALUDES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MIN215"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MIN256",
+        "nome": "PROCESSAMENTO DE MINERAIS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO113",
+            "QUI117"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MIN257",
+        "nome": "PROCESSAMENTO DE MINERAIS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MIN256"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MIN258",
+        "nome": "PROCESSAMENTO DE MINERAIS III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MIN257"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MIN262",
+        "nome": "INTRODUCAO A GEOESTATISTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST202"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MTM154",
+        "nome": "ESTATISTICA APLICADA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST202"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MTM155",
+        "nome": "ESTATISTICA APLICADA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM154"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO255",
+        "nome": "ENGENHARIA ECONOMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "PRO242"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO302",
+        "nome": "ACOES EMPREENDEDORAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "PRO242",
+            "PRO244"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO316",
+        "nome": "LOGISTICA REVERSA",
+        "prerequisitoH": 1800,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO336",
+        "nome": "ECONOMIA DA ENERGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO338",
+        "nome": "GESTAO AMBIENTAL DE SISTEMAS ENERGETICOS",
+        "prerequisitoH": 1800,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO556",
+        "nome": "PLANEJAMENTO ENERGETICO INTEGRADO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO562",
+        "nome": "EFICIENCIA E CONSERVACAO DE ENERGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI137",
+        "nome": "QUIMICA ANALITICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI175",
+        "nome": "ORIGEM E CARACTERIZACAO DE PETROLEO E DERIVADOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI153"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI301",
+        "nome": "TRATAMENTO DE EFLUENTES LIQUIDOS INDUSTRIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "AMB105",
+            "QUI117",
+            "QUI153"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    }
+]

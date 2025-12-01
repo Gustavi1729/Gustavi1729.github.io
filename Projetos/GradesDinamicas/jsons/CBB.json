@@ -1,0 +1,2125 @@
+[
+    {
+        "codigo": "BEV278",
+        "nome": "INTRODUCAO A SISTEMATICA FILOGENETICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI011",
+        "nome": "CONCEITOS EM BIOTECNOLOGIA E SAUDE",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI270",
+        "nome": "BIOLOGIA CELULAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSO117",
+        "nome": "METODOLOGIA DE PESQUISA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO110",
+        "nome": "GEOLOGIA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM141",
+        "nome": "MATEMATICA APLICADA A CIENCIAS BIOLOGICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI309",
+        "nome": "QUIMICA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI310",
+        "nome": "QUIMICA GERAL EXPERIMENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV281",
+        "nome": "MORFOLOGIA VEGETAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV302",
+        "nome": "ZOOLOGIA DOS INVERTEBRADOS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI270"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI271",
+        "nome": "BIOQUIMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 6,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI272",
+        "nome": "HISTOLOGIA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI270"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST211",
+        "nome": "BIOESTATISTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM141"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS120",
+        "nome": "FISICA APLICADA A BIOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM141"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV280",
+        "nome": "SISTEMATICA DE ALGAS E FUNGOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV278"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV282",
+        "nome": "GENETICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI270"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV303",
+        "nome": "ZOOLOGIA DOS INVERTEBRADOS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV302"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI114",
+        "nome": "ANATOMIA HUMANA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI272"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI237",
+        "nome": "BIOLOGIA DO DESENVOLVIMENTO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI270",
+            "CBI272"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI279",
+        "nome": "IMUNOLOGIA COMPARADA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI271"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST212",
+        "nome": "BIOESTATISTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST211"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV277",
+        "nome": "FUNDAMENTOS EM ECOLOGIA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV283",
+        "nome": "SISTEMATICA DE PLANTAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV278",
+            "BEV281"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV285",
+        "nome": "ZOOLOGIA DOS VERTEBRADOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI149",
+        "nome": "FISIOLOGIA BASICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI114"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI275",
+        "nome": "BIOLOGIA DE PARASITOS E DE VETORES",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI277",
+        "nome": "BIOLOGIA DE MICRORGANISMOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI279"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO247",
+        "nome": "PALEONTOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO110"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV111",
+        "nome": "ECOFISIOLOGIA VEGETAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV281",
+            "CBI271"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV112",
+        "nome": "METODOS EM ECOFISIOLOGIA VEGETAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV281",
+            "CBI271"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV113",
+        "nome": "BIOLOGIA MARINHA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV277",
+            "BEV281",
+            "BEV303"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV137",
+        "nome": "BIOLOGIA MARINHA DE CAMPO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV277",
+            "BEV281",
+            "BEV303"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 0,
+        "praticas": 3,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV279",
+        "nome": "FUNDAMENTOS EM ECOLOGIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV277"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV289",
+        "nome": "EVOLUCAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV282"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI281",
+        "nome": "BIOLOGIA MOLECULAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI271"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI063",
+        "nome": "BIOSSEGURANCA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI064",
+        "nome": "TOPICOS ESPECIAIS EM BIOMOLECULAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI271"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI065",
+        "nome": "TOPICOS EM CIENCIAS BIOLOGICAS: BIOQUIMICA, FISIOLOGIA, CIENCIAS MORFOLOGICAS E PATOLOGIA.",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI066",
+        "nome": "TOPICOS EM CIENCIAS BIOLOGICAS: MICROBIOLOGIA, IMUNOLOGIA, PARASITOLOGIA E BIOLOGIA MOLECULAR.",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI067",
+        "nome": "FISIOLOGIA APLICADA A PESQUISA EM SAUDE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI149"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI068",
+        "nome": "HISTOLOGIA DOS SISTEMAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI272"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI069",
+        "nome": "BIOTECNOLOGIA DE MICRORGANISMOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI277"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI070",
+        "nome": "IMUNOLOGIA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI271"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI071",
+        "nome": "TOPICOS EM METABOLISMO E PROCESSOS REDOX",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI149",
+            "CBI271"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI072",
+        "nome": "PATOLOGIA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI073",
+        "nome": "INOVACAO E EMPREENDEDORISMO EM BIOTECNOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI074",
+        "nome": "FERRAMENTAS MOLECULARES APLICADAS A BIOTECNOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI271"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI075",
+        "nome": "TECNOLOGIA DO CULTIVO DE CELULAS ANIMAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI068"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI076",
+        "nome": "BIOINFORMATICA: CONCEITOS E APLICACOES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI271"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI260",
+        "nome": "SEMINARIOS DE PESQUISA E MONOGRAFIA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 180,
+        "cargaHExtensionista": 0,
+        "cargaHA": 216,
+        "teoricas": 2,
+        "praticas": 10,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI077",
+        "nome": "DOENCAS INFECCIOSAS E PARASITARIAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI275",
+            "CBI277"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI261",
+        "nome": "SEMINARIOS DE PESQUISA E MONOGRAFIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI260"
+        ],
+        "cargaHSemestral": 180,
+        "cargaHExtensionista": 0,
+        "cargaHA": 216,
+        "teoricas": 2,
+        "praticas": 10,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CBI280",
+        "nome": "LABORATORIO DE CIENCIAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI272"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 2,
+        "praticas": 4,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV114",
+        "nome": "TAXONOMIA DE ANGIOSPERMAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV283"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV115",
+        "nome": "INTRODUCAO A ECOLOGIA COMPORTAMENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV285"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV116",
+        "nome": "GENETICA DE POPULACOES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV282"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "AMB201",
+        "nome": "IMPACTO E GERENCIAMENTO AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV277"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV117",
+        "nome": "ANATOMIA ECOLOGICA DE PLANTAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV281"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV120",
+        "nome": "TECNICAS BASICAS EM ECOLOGIA DE CAMPO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV277"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV121",
+        "nome": "FUNDAMENTOS EM ECOLOGIA III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV279"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV122",
+        "nome": "ECOLOGIA MOLECULAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV282"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV180",
+        "nome": "LIMNOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV279"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV250",
+        "nome": "BIOLOGIA DA CONSERVACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV279"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV260",
+        "nome": "SEMINARIOS DE PESQUISA E MONOGRAFIA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 180,
+        "cargaHExtensionista": 0,
+        "cargaHA": 216,
+        "teoricas": 2,
+        "praticas": 10,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV123",
+        "nome": "BIOGEOGRAFIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV124",
+        "nome": "ECOLOGIA DE ECOSSISTEMAS MONTANOS TROPICAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV279"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BEV261",
+        "nome": "SEMINARIOS DE PESQUISA E MONOGRAFIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV260"
+        ],
+        "cargaHSemestral": 180,
+        "cargaHExtensionista": 0,
+        "cargaHA": 216,
+        "teoricas": 2,
+        "praticas": 10,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ALI311",
+        "nome": "BIOTERISMO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "AMB107",
+        "nome": "PRINCIPIOS DE BIOTECNOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "AMB118",
+        "nome": "DEGRADACAO E POLUICAO AMBIENTAL",
+        "prerequisitoH": 1200,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "AMB176",
+        "nome": "AVALIACAO DE IMPACTO E LICENCIAMENTO AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR751"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "AMB304",
+        "nome": "AUDITORIAS E PERICIAS AMBIENTAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "AMB176"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC443",
+        "nome": "GEOPROCESSAMENTO E SISTEMAS DE INFORMACAO GEOGRAFICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC445",
+        "nome": "MODELAGEM E SIMULACAO DE SISTEMAS TERRESTRES",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV109",
+        "nome": "TOPICOS EM BIOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV110",
+        "nome": "CULTIVO DE PLANTAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV281"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV125",
+        "nome": "COLECOES BIOLOGICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV126",
+        "nome": "FITOGEOGRAFIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV277",
+            "BEV283"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV127",
+        "nome": "ETNOECOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV128",
+        "nome": "ECOLOGIA AQUATICA EXPERIMENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV277"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV129",
+        "nome": "CITOGENETICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV130",
+        "nome": "ENTOMOLOGIA ECOLOGICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV303"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 2,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV131",
+        "nome": "HERPETOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV285"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV132",
+        "nome": "ORNITOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV285"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV133",
+        "nome": "BIODIVERSIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV279"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV134",
+        "nome": "BIOLOGIA DE POPULACOES DE HOSPEDEIROS E SEUS PARASITAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV135",
+        "nome": "INSETOS VETORES DE DOENCAS: BIOLOGIA E DELINEAMENTO EXPERIMENTAL PARA ESTUDOS DE CAMPO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV136",
+        "nome": "ANATOMIA DA MADEIRA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV281"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV185",
+        "nome": "FUNDAMENTOS DE BIOETICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV204",
+        "nome": "BIOMETRIA COM O R",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST212"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 3,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV266",
+        "nome": "EVOLUCAO MOLECULAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV289",
+            "CBI281"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV267",
+        "nome": "GENETICA MOLECULAR DO DESENVOLVIMENTO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI237",
+            "CBI281"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV271",
+        "nome": "EVOLUCAO HUMANA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BEV282",
+            "BEV289"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV274",
+        "nome": "GENETICA DA CONSERVACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV290",
+        "nome": "EDUCACAO AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BEV299",
+        "nome": "FUNDAMENTOS DE BIOETICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI003",
+        "nome": "FISIOLOGIA DOS SISTEMAS CELULAR, MUSCULAR E NERVOSO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI149"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 4,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI006",
+        "nome": "FISIOLOGIA DOS SISTEMAS CARDIOVASCULAR, RESPIRATORIO E RENAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI149"
+        ],
+        "cargaHSemestral": 120,
+        "cargaHExtensionista": 0,
+        "cargaHA": 144,
+        "teoricas": 4,
+        "praticas": 4,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI007",
+        "nome": "FISIOLOGIA DOS SISTEMAS DIGESTORIO E ENDOCRINO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI149"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI078",
+        "nome": "PROSPECCAO MICROBIANA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI277"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI079",
+        "nome": "MICROBIOLOGIA APLICADA A SAUDE UNICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI080",
+        "nome": "MICROBIOLOGIA INDUSTRIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI277"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI081",
+        "nome": "VIROLOGIA CLINICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI070",
+            "CBI277"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI213",
+        "nome": "PATOLOGIA AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI251",
+        "nome": "MICROBIOLOGIA AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI277"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI269",
+        "nome": "TOPICOS AVANCADOS: IMPORTANCIA DA FISIOLOGIA NOS CURSOS DE GRADUACAO NA AREA CIENCIAS BIOLOGICAS E DA SAUDE",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI282",
+        "nome": "PARASITOLOGIA FUNDAMENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CBI283",
+        "nome": "BIOTECNOLOGIA PARA DIAGNOSTICO NA SAUDE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI070"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSO006",
+        "nome": "SOCIOLOGIA URBANA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSO008",
+        "nome": "SOCIOLOGIA RURAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSO010",
+        "nome": "SOCIOLOGIA DO CONHECIMENTO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSO012",
+        "nome": "TERRITORIOS E SUJEITOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSO013",
+        "nome": "ANALISE DE POLITICAS PUBLICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSO112",
+        "nome": "TOPICOS EM TEORIA POLITICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSO114",
+        "nome": "TOPICOS EM ANTROPOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSO115",
+        "nome": "TOPICOS EM SOCIOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSO119",
+        "nome": "TOPICOS EM ANTROPOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSO120",
+        "nome": "TOPICOS EM SOCIOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "DIR751",
+        "nome": "DIREITO AMBIENTAL",
+        "prerequisitoH": 1800,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EST002",
+        "nome": "ESTATISTICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 6,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EST008",
+        "nome": "TECNICAS DE AMOSTRAGEM I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EST009",
+        "nome": "DEMOGRAFIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST002"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR031",
+        "nome": "ECOTOXICOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR102",
+        "nome": "EPIDEMIOLOGIA AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST211"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR408",
+        "nome": "BIOTECNOLOGIA II (INDUSTRIA)",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR617"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 0,
+        "praticas": 4,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR413",
+        "nome": "BIOTECNOLOGIA III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FAR617"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR609",
+        "nome": "SAUDE PUBLICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FAR617",
+        "nome": "BIOTECNOLOGIA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CBI271",
+            "CBI277",
+            "CBI281"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIL643",
+        "nome": "FILOSOFIA DAS CIENCIAS: SECULO XX",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO344",
+        "nome": "MICROPALEONTOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "LET966",
+        "nome": "INTRODUCAO A LIBRAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MED162",
+        "nome": "PSICOLOGIA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MED425",
+        "nome": "SAUDE E ESPIRITUALIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MTM122",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 6,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "NCS160",
+        "nome": "INTRODUCAO A NUTRICAO CLINICA",
+        "prerequisitoH": 1800,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO126",
+        "nome": "ENERGIA, SOCIEDADE E MEIO AMBIENTE",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO226",
+        "nome": "MACROECONOMIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO227",
+        "nome": "MICROECONOMIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO301",
+        "nome": "EMPREENDEDORISMO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI175",
+        "nome": "ORIGEM E CARACTERIZACAO DE PETROLEO E DERIVADOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    }
+]

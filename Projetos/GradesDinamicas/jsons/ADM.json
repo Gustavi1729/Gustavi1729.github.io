@@ -1,0 +1,1264 @@
+[
+    {
+        "codigo": "CAD500",
+        "nome": "METODOLOGIA DA PESQUISA EM ADMINISTRACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 30,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD501",
+        "nome": "FILOSOFIA E ETICA DAS ORGANIZACOES",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 30,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD502",
+        "nome": "EVOLUCAO DO PENSAMENTO ADMINISTRATIVO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD503",
+        "nome": "MATEMATICA APLICADA A ADMINISTRACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "PRO034",
+        "nome": "MICROECONOMIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD504",
+        "nome": "MATEMATICA FINANCEIRA E COMERCIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD503"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD505",
+        "nome": "PSICOLOGIA E COMPORTAMENTO ORGANIZACIONAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD502"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD506",
+        "nome": "CONTABILIDADE GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD507",
+        "nome": "TEORIA DAS ORGANIZACOES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD502"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 30,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD508",
+        "nome": "ESTATISTICA I APLICADA A ADMINISTRACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD503"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD509",
+        "nome": "ESTUDOS ORGANIZACIONAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD507"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD510",
+        "nome": "INTRODUCAO AO PENSAMENTO EMPREENDEDOR",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD502"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 30,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD511",
+        "nome": "ESTATISTICA II APLICADA A ADMINISTRACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD508"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD512",
+        "nome": "GESTAO POR PROCESSOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD507"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "PRO043",
+        "nome": "MACROECONOMIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD513",
+        "nome": "ADMINISTRACAO FINANCEIRA DE CURTO PRAZO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD504",
+            "CAD506"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 15,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD514",
+        "nome": "GESTAO ESTRATEGICA DE PESSOAS I",
+        "prerequisitoH": 780,
+        "prerequisitoD": [
+            "CAD507"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD515",
+        "nome": "ANALISE GERENCIAL DE CUSTOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD506"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD516",
+        "nome": "GESTAO DE MARKETING I",
+        "prerequisitoH": 780,
+        "prerequisitoD": [
+            "CAD507"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR802",
+        "nome": "INSTITUICOES DE DIREITO I",
+        "prerequisitoH": 780,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD517",
+        "nome": "ADMINISTRACAO FINANCEIRA DE LONGO PRAZO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD513"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 15,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD518",
+        "nome": "GESTAO ESTRATEGICA DE PESSOAS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD514"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD519",
+        "nome": "GESTAO DE MARKETING II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD515",
+            "CAD516"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR803",
+        "nome": "INSTITUICOES DE DIREITO II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR802"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "PRO807",
+        "nome": "PLANEJAMENTO E CONTROLE DA PRODUCAO",
+        "prerequisitoH": 1020,
+        "prerequisitoD": [
+            "CAD512"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD520",
+        "nome": "NEGOCIOS DIGITAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD521",
+        "nome": "PROJETO EM ADMINISTRACAO I",
+        "prerequisitoH": 1200,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD522",
+        "nome": "GESTAO ESTRATEGICA E PLANEJAMENTO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD507"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD523",
+        "nome": "MERCADO FINANCEIRO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD517"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "PRO910",
+        "nome": "PLANEJAMENTO E GESTAO DA PRODUCAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "PRO807"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD524",
+        "nome": "COMPORTAMENTO DO CONSUMIDOR",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD516",
+            "CAD519"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 30,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD525",
+        "nome": "PLANO DE NEGOCIOS E ORCAMENTO EMPRESARIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD517"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD526",
+        "nome": "GESTAO ESTRATEGICA DE PESSOAS III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD518"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD527",
+        "nome": "ADMINISTRACAO DE MATERIAIS E LOGISTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD515",
+            "PRO910"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 30,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD528",
+        "nome": "PRATICA PROFISSIONAL EM ADMINISTRACAO",
+        "prerequisitoH": 1200,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD529",
+        "nome": "TRABALHO E SOCIEDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD509"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD530",
+        "nome": "PLANEJAMENTO TRIBUTARIO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR803"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD531",
+        "nome": "PROJETO EM ADMINISTRACAO II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD521"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD532",
+        "nome": "GESTAO DE INFORMACOES CONHECIMENTO E INOVACAO",
+        "prerequisitoH": 1530,
+        "prerequisitoD": [
+            "CAD512"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD533",
+        "nome": "COMPORTAMENTO ORGANIZACIONAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD518"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CAD600",
+        "nome": "MODELOS DE ORGANIZACAO SUSTENTAVEIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD507"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD601",
+        "nome": "ESTRATEGIA E PRATICA ORGANIZACIONAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD507"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD602",
+        "nome": "SEMINARIOS AVANCADOS EM EMPREENDEDORISMO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD511"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD603",
+        "nome": "EXPERIENCIA ACADEMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD507"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD604",
+        "nome": "ESTUDOS CRITICOS ORGANIZACIONAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD510"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD605",
+        "nome": "ORGANIZACOES E ANALISE INSTITUCIONAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD507"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD606",
+        "nome": "ADMINISTRACAO PUBLICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "DIR802"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD607",
+        "nome": "GESTAO DE MICRO E PEQUENAS EMPRESAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD522"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD608",
+        "nome": "EPISTEMOLOGIA DA ADMINISTRACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD507"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD609",
+        "nome": "FORMACAO E ENSINO EM ADMINISTRACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD507"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD610",
+        "nome": "TOPICOS AVANCADOS EM ESTRATEGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD522"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD611",
+        "nome": "TOPICOS AVANCADOS EM ESTUDOS ORGANIZACIONAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD511"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD612",
+        "nome": "TOPICOS AVANCADOS EM INOVACOES TECNOLOGICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD513"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD613",
+        "nome": "GESTAO POR COMPETENCIAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD518"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD614",
+        "nome": "PODER, CULTURA E CONTROLE NAS ORGANIZACOES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD511"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD615",
+        "nome": "TOPICOS AVANCADOS EM GESTAO DE PESSOAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD518"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD616",
+        "nome": "GESTAO DE DIVERSIDADE, GENERO E RACA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD518"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD618",
+        "nome": "EVOLUCAO DOS SISTEMAS DE PRODUCAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "PRO807"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD619",
+        "nome": "REDES E NOVOS DESENHOS ORGANIZACIONAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD513"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD620",
+        "nome": "LOGISTICA EMPRESARIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD527"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD621",
+        "nome": "TOPICOS AVANCADOS EM PRODUCAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "PRO910"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD622",
+        "nome": "AVALIACAO DE EMPRESAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD518"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD623",
+        "nome": "SPSS APLICADO A PESQUISA EM ADMINISTRACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD509",
+            "CAD513"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD624",
+        "nome": "FINANCAS CORPORATIVAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD517"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD625",
+        "nome": "AUDITORIA NAS ORGANIZACOES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD517"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD626",
+        "nome": "ADMINISTRACAO DE CARTEIRAS DE INVESTIMENTO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD517"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD627",
+        "nome": "GESTAO ESTRATEGICA DE CUSTOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD517"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD628",
+        "nome": "TOPICOS AVANCADOS EM FINANCAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD517"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD629",
+        "nome": "GOVERNANCA NAS ORGANIZACOES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD517"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD630",
+        "nome": "E-MARKETING",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD519"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD631",
+        "nome": "PESQUISA EM MARKETING",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD519"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD632",
+        "nome": "CONSUMO E SOCIEDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD519"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD633",
+        "nome": "CANAIS DE MARKETING",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD519"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD634",
+        "nome": "TOPICOS AVANCADOS EM MARKETING",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD519"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD635",
+        "nome": "SISTEMAS ERP E MODULOS GESTAO ORGANIZACIONAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD514",
+            "CAD522"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD636",
+        "nome": "PESQUISA OPERACIONAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "PRO807"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CAD637",
+        "nome": "ANALISE DAS DEMONSTRACOES FINANCEIRAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD506"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "LET966",
+        "nome": "INTRODUCAO A LIBRAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO343",
+        "nome": "GESTAO DA QUALIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "PRO910"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO718",
+        "nome": "ERGONOMIA E TRABALHO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CAD516"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    }
+]

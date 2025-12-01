@@ -1,0 +1,1519 @@
+[
+    {
+        "codigo": "CEA059",
+        "nome": "FUNDAMENTOS DE GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA060",
+        "nome": "FUNDAMENTOS DE CALCULO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI101",
+        "nome": "PROGRAMACAO DE COMPUTADORES I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI601",
+        "nome": "FUNDAMENTOS DE SISTEMAS DE INFORMACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI901",
+        "nome": "INFORMATICA E SOCIEDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI902",
+        "nome": "METODOLOGIA DE PESQUISA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI011",
+        "nome": "MATEMATICA DISCRETA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI102",
+        "nome": "PROGRAMACAO DE COMPUTADORES II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI101"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI103",
+        "nome": "ALGORITMOS E ESTRUTURAS DE DADOS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI101"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI807",
+        "nome": "GESTAO DA INFORMACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP144",
+        "nome": "TEORIA GERAL DA ADMINISTRACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA055",
+        "nome": "ESTATISTICA E PROBABILIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA060"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI104",
+        "nome": "ALGORITMOS E ESTRUTURAS DE DADOS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI102",
+            "CSI103"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI115",
+        "nome": "ALGORITMOS E ESTRUTURAS DE DADOS III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI011",
+            "CSI103"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI211",
+        "nome": "FUNDAMENTOS DE ORGANIZACAO E ARQUITETURA DE COMPUTADORES",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP473",
+        "nome": "COMPORTAMENTO ORGANIZACIONAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI204",
+        "nome": "SISTEMAS OPERACIONAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI103",
+            "CSI211"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI412",
+        "nome": "ENGENHARIA DE SOFTWARE I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI102",
+            "CSI103"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI602",
+        "nome": "BANCO DE DADOS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI103"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP012",
+        "nome": "PROGRAMACAO LINEAR E INTEIRA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA059",
+            "CSI103"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP150",
+        "nome": "ECONOMIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA060"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI106",
+        "nome": "FUNDAMENTOS TEORICOS DA COMPUTACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI115"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI301",
+        "nome": "REDES DE COMPUTADORES I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI101",
+            "CSI211"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI410",
+        "nome": "ENGENHARIA DE SOFTWARE II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI412"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI522",
+        "nome": "INTERACAO HUMANO-COMPUTADOR",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI412"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI701",
+        "nome": "INTELIGENCIA ARTIFICIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI115"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI990",
+        "nome": "PROJETO INTEGRADOR I",
+        "prerequisitoH": 900,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 30,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI114",
+        "nome": "LINGUAGENS DE PROGRAMACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI106"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI302",
+        "nome": "SISTEMAS DISTRIBUIDOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI204",
+            "CSI301"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI405",
+        "nome": "GERENCIA DE PROJETOS DE SOFTWARE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI410"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI606",
+        "nome": "SISTEMAS WEB I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI412",
+            "CSI602"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI991",
+        "nome": "PROJETO INTEGRADOR II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI990"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 90,
+        "cargaHA": 108,
+        "teoricas": 2,
+        "praticas": 4,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI808",
+        "nome": "GESTAO DA TECNOLOGIA DA INFORMACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI807"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI992",
+        "nome": "TRABALHO DE CONCLUSAO DE CURSO I",
+        "prerequisitoH": 1800,
+        "prerequisitoD": [
+            "CSI902"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP026",
+        "nome": "ADMINISTRACAO DE RECURSOS HUMANOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ENP493",
+        "nome": "EMPREENDEDORISMO",
+        "prerequisitoH": 1800,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI307",
+        "nome": "SEGURANCA E AUDITORIA DE SISTEMAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI301"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI605",
+        "nome": "SISTEMAS DE APOIO A DECISAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI601",
+            "CSI602"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CSI997",
+        "nome": "TRABALHO DE CONCLUSAO DE CURSO II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI992"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "CEA037",
+        "nome": "EXPLORACAO E VISUALIZACAO DE DADOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA055",
+            "CSI101"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CEA040",
+        "nome": "ESTRUTURA E DINAMICA DE REDES COMPLEXAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA055",
+            "CEA059",
+            "CEA060",
+            "CSI103"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CEA042",
+        "nome": "ALGEBRA E APLICACOES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA059",
+            "CEA060"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CEA043",
+        "nome": "APLICACOES DE ALGEBRA LINEAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA059",
+            "CEA060"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CEA045",
+        "nome": "REDES BAYESIANAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA059",
+            "CEA060"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CEA068",
+        "nome": "MATEMATICA FINANCEIRA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA060"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CEA076",
+        "nome": "INTRODUCAO A LIBRAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI109",
+        "nome": "COMPILADORES I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI106"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI111",
+        "nome": "LOGICA APLICADA A COMPUTACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI011",
+            "CSI103"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI206",
+        "nome": "AVALIACAO DE DESEMPENHO DE SISTEMAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI302"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI207",
+        "nome": "ROBOTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI101",
+            "CSI211"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI208",
+        "nome": "LINGUAGENS DE DESCRICAO DE HARDWARE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI101",
+            "CSI211"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI210",
+        "nome": "ORGANIZACAO E ARQUITETURA DE COMPUTADORES II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI211"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI304",
+        "nome": "REDES DE COMPUTADORES II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI301"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI305",
+        "nome": "INTERNET DAS COISAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI301"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI306",
+        "nome": "COMPUTACAO MOVEL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI301"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI308",
+        "nome": "SEGURANCA EM REDES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI301"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI406",
+        "nome": "DESENVOLVIMENTO AGIL DE SOFTWARE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI412"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI408",
+        "nome": "TESTE DE SOFTWARE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI412"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI409",
+        "nome": "PADROES DE PROJETO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI410",
+            "CSI603"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI411",
+        "nome": "QUALIDADE DE SOFTWARE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI412"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI505",
+        "nome": "AVALIACAO DE SISTEMAS INTERATIVOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI522"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI507",
+        "nome": "DESIGN E DESENVOLVIMENTO DE JOGOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI101"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI521",
+        "nome": "ACESSIBILIDADE WEB",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI522",
+            "CSI606"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI523",
+        "nome": "LABORATORIO DE DESIGN E DESENVOLVIMENTO DE JOGOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI101"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI603",
+        "nome": "BANCO DE DADOS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI104",
+            "CSI602"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI607",
+        "nome": "SISTEMAS WEB II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI606"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI608",
+        "nome": "PROGRAMACAO PARA DISPOSITIVOS MOVEIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI412"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI609",
+        "nome": "ANALISE DE MIDIAS SOCIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI115"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI702",
+        "nome": "INTELIGENCIA COMPUTACIONAL PARA OTIMIZACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI701",
+            "ENP012"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI703",
+        "nome": "COMPUTACAO EVOLUCIONARIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI701",
+            "ENP012"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI704",
+        "nome": "APRENDIZAGEM DE MAQUINA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI701"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI705",
+        "nome": "APRENDIZAGEM PROFUNDA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI701"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI706",
+        "nome": "COMPUTACAO GRAFICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI103"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI707",
+        "nome": "PROCESSAMENTO DIGITAL DE IMAGENS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA059",
+            "CSI103"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI708",
+        "nome": "VISAO COMPUTACIONAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA059",
+            "CSI101"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI709",
+        "nome": "ENGENHARIA ONTOLOGICA E LOGICA FUZZY",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI114",
+            "CSI701"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI710",
+        "nome": "PROJETO E ANALISE DE EXPERIMENTOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA055"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI711",
+        "nome": "MINERACAO DE DADOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI602"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 0,
+        "praticas": 4,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI803",
+        "nome": "BANCO DE DADOS GEOGRAFICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI602"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI804",
+        "nome": "GEOPROCESSAMENTO E SISTEMAS DE INFORMACAO GEOGRAFICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI602"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI805",
+        "nome": "MODELAGEM E SIMULACAO DE SISTEMAS TERRESTRES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI102",
+            "CSI103"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CSI806",
+        "nome": "COMPUTACAO VESTIVEL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI211"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ELT580",
+        "nome": "MICROPROCESSADORES E MICROCONTROLADORES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI211"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP005",
+        "nome": "ERGONOMIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP473"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP009",
+        "nome": "LOGISTICA E GESTAO DA CADEIA DE SUPRIMENTOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI601",
+            "ENP144"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP014",
+        "nome": "ORGANIZACAO DO TRABALHO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP473"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP022",
+        "nome": "GESTAO DA QUALIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA055"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP023",
+        "nome": "ENGENHARIA ECONOMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP012",
+            "ENP150"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP025",
+        "nome": "GESTAO DO CONHECIMENTO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CSI807"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP043",
+        "nome": "ETICA E RESPONSABILIDADE SOCIOAMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP122",
+        "nome": "PLANEJAMENTO E CONTROLE DE PRODUCAO I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP150"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP151",
+        "nome": "CIENCIA TECNOLOGIA E SOCIEDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP154",
+        "nome": "PLANEJAMENTO ESTRATEGICO E MERCADOLOGICO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP150"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP155",
+        "nome": "CUSTOS INDUSTRIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ENP150"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "ENP157",
+        "nome": "ESTATISTICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CEA055",
+            "CEA059"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    }
+]

@@ -1,0 +1,1504 @@
+[
+    {
+        "codigo": "FIS118",
+        "nome": "FISICA CONCEITUAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS123",
+        "nome": "INTRODUCAO AOS METODOS DA FISICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM122",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 6,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM131",
+        "nome": "GEOMETRIA ANALITICA E CALCULO VETORIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI242",
+        "nome": "QUIMICA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI243",
+        "nome": "QUIMICA GERAL EXPERIMENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS106",
+        "nome": "FUNDAMENTOS DE MECANICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS336",
+        "nome": "FISICA EXPERIMENTAL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 0,
+        "praticas": 4,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS400",
+        "nome": "HISTORIA DA FISICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM112",
+        "nome": "INTRODUCAO A ALGEBRA LINEAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM131"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM123",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC701",
+        "nome": "PROGRAMACAO DE COMPUTADORES I",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS107",
+        "nome": "FUNDAMENTOS DE TERMODINAMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS108",
+        "nome": "FUNDAMENTOS DE FLUIDOS, OSCILACOES E ONDAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS337",
+        "nome": "FISICA EXPERIMENTAL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106",
+            "FIS336"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS600",
+        "nome": "FISICA E CIENCIA, SOCIEDADE E MEIO AMBIENTE",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM124",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM123"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM125",
+        "nome": "INTRODUCAO AS EQUACOES DIFERENCIAIS ORDINARIAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM112",
+            "MTM122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS109",
+        "nome": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106",
+            "MTM124",
+            "MTM131"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS124",
+        "nome": "MECANICA CLASSICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106",
+            "MTM123"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS331",
+        "nome": "FISICA COMPUTACIONAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS338",
+        "nome": "FISICA EXPERIMENTAL III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS337"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS341",
+        "nome": "METODOS DE FISICA TEORICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM124",
+            "MTM125"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS110",
+        "nome": "FUNDAMENTOS DE OPTICA E QUANTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS109"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS339",
+        "nome": "FISICA EXPERIMENTAL IV",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS109",
+            "FIS338"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS515",
+        "nome": "TEORIA ELETROMAGNETICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS109",
+            "FIS341"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS125",
+        "nome": "FUNDAMENTOS DE TEORIA DA RELATIVIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS109"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS302",
+        "nome": "ESTRUTURA DA MATERIA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS110",
+            "MTM125"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS304",
+        "nome": "TERMODINAMICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS107",
+            "FIS108",
+            "MTM123"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS628",
+        "nome": "TEORIA ELETROMAGNETICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS515"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS126",
+        "nome": "METODOLOGIA DA PESQUISA",
+        "prerequisitoH": 1200,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS413",
+        "nome": "FISICA EXPERIMENTAL AVANCADA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS302",
+            "FIS339"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 0,
+        "praticas": 4,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS516",
+        "nome": "MECANICA QUANTICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS302",
+            "FIS341"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS724",
+        "nome": "INTRODUCAO A FISICA ESTATISTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS302",
+            "FIS304"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS127",
+        "nome": "TRABALHO DE CONCLUSAO DE CURSO -TCC",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS126"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS427",
+        "nome": "FISICA EXPERIMENTAL AVANCADA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS413"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 0,
+        "praticas": 4,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS629",
+        "nome": "MECANICA QUANTICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS516"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS822",
+        "nome": "FISICA DO ESTADO SOLIDO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS516"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI244",
+        "nome": "QUIMICA ORGANICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI242"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI245",
+        "nome": "QUIMICA ORGANICA EXPERIMENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI242"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 18,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS340",
+        "nome": "FISICA DOS MATERIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS110"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS517",
+        "nome": "METODOS DE FISICA TEORICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS341"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS128",
+        "nome": "MECANICA CLASSICA AVANCADA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS124"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC702",
+        "nome": "PROGRAMACAO DE COMPUTADORES II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC701"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "BCC760",
+        "nome": "CALCULO NUMERICO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC701"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "EST202",
+        "nome": "ESTATISTICA E PROBABILIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM122"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS140",
+        "nome": "ESTATICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS141",
+        "nome": "INTRODUCAO A FISICA NUCLEAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS110"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS142",
+        "nome": "INTRODUCAO A FILOSOFIA E HISTORIA DA FISICA MODERNA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS400"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS153",
+        "nome": "RELATIVIDADE GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS124",
+            "FIS125"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS157",
+        "nome": "INTRODUCAO A TEORIA QUANTICA DE CAMPOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS515",
+            "FIS516"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS401",
+        "nome": "TECNOLOGIAS DA INFORMACAO E COMUNICACAO NA EDUCACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 4,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS403",
+        "nome": "EXPERIMENTACAO E INVESTIGACAO NO ENSINO DE FISICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 2,
+        "praticas": 4,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS404",
+        "nome": "EDUCACAO NAO-FORMAL E INFORMAL EM CIENCIAS NATURAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 4,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS411",
+        "nome": "CULTURA CIENTIFICA E COMUNICACAO PUBLICA DA CIENCIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS412",
+        "nome": "INTERFACES ENTRE CIENCIA E CULTURA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS415",
+        "nome": "CURRICULO, HISTORIA E CTS NO ENSINO DE FISICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 4,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS830",
+        "nome": "INTRODUCAO A INFORMACAO QUANTICA.",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO104",
+        "nome": "MINERALOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO110",
+        "nome": "GEOLOGIA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO161",
+        "nome": "GEOFISICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 120,
+        "cargaHExtensionista": 0,
+        "cargaHA": 144,
+        "teoricas": 4,
+        "praticas": 4,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "LET966",
+        "nome": "INTRODUCAO A LIBRAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MTM118",
+        "nome": "ALGEBRA LINEAR II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM112"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MTM129",
+        "nome": "ELEMENTOS DE EQUACOES DIFERENCIAIS PARCIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM125"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MTM136",
+        "nome": "INTRODUCAO A GEOMETRIA DIFERENCIAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM112",
+            "MTM124",
+            "MTM125"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MTM236",
+        "nome": "INTRODUCAO AOS SISTEMAS DINAMICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM123",
+            "MTM125"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 6,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MTM286",
+        "nome": "ANALISE I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM124"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 6,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MTM287",
+        "nome": "ANALISE II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM286"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 6,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MTM288",
+        "nome": "ANALISE III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM287"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 6,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MUL450",
+        "nome": "ASTRONOMIA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MUL451",
+        "nome": "FUNDAMENTOS PARA ENSINO DE ASTRONOMIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MUL452",
+        "nome": "TOPICOS DE ASTRONOMIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 15,
+        "cargaHExtensionista": 0,
+        "cargaHA": 18,
+        "teoricas": 1,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO301",
+        "nome": "EMPREENDEDORISMO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI137",
+        "nome": "QUIMICA ANALITICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI242",
+            "QUI243"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS129",
+        "nome": "ESTRUTURA ELETRONICA DE ATOMOS, MOLECULAS E SOLIDOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS302",
+            "FIS331"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS136",
+        "nome": "TECNICAS DE MICROSCOPIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS110"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS137",
+        "nome": "ESPECTROSCOPIA MOLECULAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS525",
+        "nome": "ESTRUTURA E PROPRIEDADES DE CERAMICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS110"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS526",
+        "nome": "TECNICAS DE CARACTERIZACAO DE MATERIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS621",
+        "nome": "PROCESSAMENTO DE CERAMICAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS525"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS825",
+        "nome": "ESTRUTURA QUANTICA DA MATERIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS516"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS829",
+        "nome": "INTRODUCAO A FISICA DE SEMICONDUTORES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS302"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MET138",
+        "nome": "TRATAMENTO TERMICO DOS METAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS340"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 2,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MET158",
+        "nome": "METALURGIA MECANICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MET268"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MET159",
+        "nome": "ENSAIOS MECANICOS DE MATERIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MET268"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MET160",
+        "nome": "SOLIDIFICACAO E FUNDICAO DE METAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS304",
+            "FIS340"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MET268",
+        "nome": "METALURGIA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS340"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI160",
+        "nome": "MATERIAIS POLIMERICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI244"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI178",
+        "nome": "RECICLAGEM DE MATERIAIS POLIMERICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI160"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "QUI179",
+        "nome": "TINTAS E VERNIZES",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI160"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS138",
+        "nome": "METODOS DE FISICA TEORICA III",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS341"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS139",
+        "nome": "INTRODUCAO A ASTROFISICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS110"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS215",
+        "nome": "MECANICA DO CONTINUO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS124"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS725",
+        "nome": "ELETRODINAMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS628"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS825",
+        "nome": "ESTRUTURA QUANTICA DA MATERIA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS516"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS831",
+        "nome": "TEORIA DA RELATIVIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS515"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    }
+]

@@ -1,0 +1,1786 @@
+[
+    {
+        "codigo": "GEO028",
+        "nome": "GEOLOGIA GERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 15,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO176",
+        "nome": "MINERALOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM700",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL A",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM730",
+        "nome": "GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI022",
+        "nome": "QUIMICA GERAL EXPERIMENTAL AB",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI075",
+        "nome": "QUIMICA GERAL B",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 1,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "ARQ108",
+        "nome": "TOPOGRAFIA E DESENHO TOPOGRAFICO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC104",
+        "nome": "ALGORITMOS E PROGRAMACAO I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM700"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS106",
+        "nome": "FUNDAMENTOS DE MECANICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM700"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS107",
+        "nome": "FUNDAMENTOS DE TERMODINAMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "QUI075"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO029",
+        "nome": "PETROGRAFIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO028",
+            "GEO176"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 15,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO037",
+        "nome": "COMUNICACAO E EXPRESSAO GEOLOGICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO028"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 15,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM702",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL B",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM700"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 2,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS108",
+        "nome": "FUNDAMENTOS DE FLUIDOS, OSCILACOES E ONDAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS109",
+        "nome": "FUNDAMENTOS DE ELETROMAGNETISMO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO038",
+        "nome": "GEOMORFOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ARQ108",
+            "GEO029"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 15,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO039",
+        "nome": "SEDIMENTOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO029"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MTM703",
+        "nome": "CALCULO DIFERENCIAL E INTEGRAL C",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM702"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "QUI117",
+        "nome": "FISICO-QUIMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS107",
+            "MTM702"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 4,
+        "praticas": 2,
+        "periodo": 3,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "FIS105",
+        "nome": "FUNDAMENTOS DE FISICA EXPERIMENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS107",
+            "FIS108",
+            "FIS109"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO045",
+        "nome": "DESENHO GEOLOGICO I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "ARQ108",
+            "GEO029",
+            "GEO038"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO046",
+        "nome": "OTICA CRISTALINA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO029"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 1,
+        "praticas": 4,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO048",
+        "nome": "GEOQUIMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO029",
+            "QUI117"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 15,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO049",
+        "nome": "PALEONTOLOGIA ESTRATIGRAFICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO039"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 15,
+        "cargaHA": 90,
+        "teoricas": 2,
+        "praticas": 3,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO055",
+        "nome": "ESTRATIGRAFIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO039"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 3,
+        "praticas": 2,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO056",
+        "nome": "MECANICA DOS SOLIDOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106",
+            "MTM703"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 4,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "EST202",
+        "nome": "ESTATISTICA E PROBABILIDADE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM703"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO057",
+        "nome": "GEOMECANICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO056"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO058",
+        "nome": "DESENHO GEOLOGICO II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO045",
+            "GEO055"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 15,
+        "cargaHA": 72,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO059",
+        "nome": "INTERPRETACAO GEOLOGICA DE IMAGENS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO045",
+            "GEO055"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO065",
+        "nome": "PETROLOGIA IGNEA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO046",
+            "GEO048"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 2,
+        "praticas": 3,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO229",
+        "nome": "PETROLOGIA SEDIMENTAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO046",
+            "GEO049",
+            "GEO055"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 5,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO066",
+        "nome": "TRABALHO DE CAMPO I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO058",
+            "GEO229"
+        ],
+        "cargaHSemestral": 120,
+        "cargaHExtensionista": 0,
+        "cargaHA": 144,
+        "teoricas": 1,
+        "praticas": 7,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO067",
+        "nome": "GEOFISICA I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS105",
+            "GEO056",
+            "GEO058"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 2,
+        "praticas": 3,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO068",
+        "nome": "GEOLOGIA ESTRUTURAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO057",
+            "GEO058"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 2,
+        "praticas": 3,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO070",
+        "nome": "GEOPROCESSAMENTO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO058",
+            "GEO059"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO071",
+        "nome": "PETROLOGIA METAMORFICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO065",
+            "GEO229"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 2,
+        "praticas": 3,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO072",
+        "nome": "PEDOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO038"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 15,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO073",
+        "nome": "METODOS CIENTIFICOS EM GEOCIENCIAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO037",
+            "GEO055"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO179",
+        "nome": "HIDROGEOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO048",
+            "GEO058"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 15,
+        "cargaHA": 90,
+        "teoricas": 2,
+        "praticas": 3,
+        "periodo": 6,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO074",
+        "nome": "GEOTECNIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO068",
+            "GEO072",
+            "GEO179"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 15,
+        "cargaHA": 90,
+        "teoricas": 2,
+        "praticas": 3,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO077",
+        "nome": "CARTOGRAFIA GEOLOGICA E GEOTECNICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO038",
+            "GEO057",
+            "GEO068",
+            "GEO070",
+            "GEO071",
+            "GEO072"
+        ],
+        "cargaHSemestral": 135,
+        "cargaHExtensionista": 75,
+        "cargaHA": 160,
+        "teoricas": 0,
+        "praticas": 9,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO078",
+        "nome": "GEOFISICA II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO067"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO079",
+        "nome": "GEOTECTONICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO068",
+            "GEO071"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 3,
+        "praticas": 1,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO084",
+        "nome": "GEOLOGIA ECONOMICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO068",
+            "GEO071",
+            "GEO072"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 15,
+        "cargaHA": 108,
+        "teoricas": 4,
+        "praticas": 2,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO393",
+        "nome": "ESTAGIO SUPERVISIONADO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO058"
+        ],
+        "cargaHSemestral": 160,
+        "cargaHExtensionista": 0,
+        "cargaHA": 192,
+        "teoricas": 0,
+        "praticas": 1,
+        "periodo": 7,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO085",
+        "nome": "TRABALHO DE CAMPO II (MAPEAMENTO GEOLOGICO)",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO066"
+        ],
+        "cargaHSemestral": 135,
+        "cargaHExtensionista": 0,
+        "cargaHA": 160,
+        "teoricas": 0,
+        "praticas": 9,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO086",
+        "nome": "GEOLOGIA HISTORICA E DO BRASIL I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO079"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO087",
+        "nome": "GEOLOGIA AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO072",
+            "GEO179"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 15,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO088",
+        "nome": "PETROGRAFIA DE MINERIO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO084"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 0,
+        "praticas": 2,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO089",
+        "nome": "PESQUISA MINERAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO078",
+            "GEO084"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 4,
+        "praticas": 1,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO090",
+        "nome": "GEOESTATISTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST202",
+            "GEO084"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO175",
+        "nome": "GEOLOGIA DO PETROLEO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO078",
+            "GEO079"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 8,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "DIR250",
+        "nome": "INTRODUCAO AO DIREITO E LEGISLACAO",
+        "prerequisitoH": 2400,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO091",
+        "nome": "TRABALHO DE CAMPO III (EXCURSAO DE GEOLOGIA REGIONAL)",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO086"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 0,
+        "praticas": 3,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO095",
+        "nome": "GEOLOGIA DE MINA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO066",
+            "GEO089"
+        ],
+        "cargaHSemestral": 75,
+        "cargaHExtensionista": 0,
+        "cargaHA": 90,
+        "teoricas": 2,
+        "praticas": 3,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO106",
+        "nome": "PROJETO FINAL DE CURSO I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO085"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "MIN021",
+        "nome": "ECONOMIA MINERAL",
+        "prerequisitoH": 2500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 15,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "PRO241",
+        "nome": "ECONOMIA I",
+        "prerequisitoH": 2500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "PRO245",
+        "nome": "ORGANIZACAO E ADMINISTRACAO I",
+        "prerequisitoH": 2500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 9,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO139",
+        "nome": "AVALIACAO ECONOMICA DE PROJETOS MINERAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO095",
+            "PRO245"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "GEO144",
+        "nome": "PROJETO FINAL DE CURSO II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO106"
+        ],
+        "cargaHSemestral": 90,
+        "cargaHExtensionista": 0,
+        "cargaHA": 108,
+        "teoricas": 1,
+        "praticas": 5,
+        "periodo": 10,
+        "feito": 0,
+        "obg": 1
+    },
+    {
+        "codigo": "BCC106",
+        "nome": "ALGORITMOS E PROGRAMACAO II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "BCC104"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CIV028",
+        "nome": "OBRAS DE TERRA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CIV244",
+            "CIV245"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 15,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CIV029",
+        "nome": "HIDROLOGIA APLICADA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST202"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CIV237",
+        "nome": "MATERIAIS DE CONSTRUCAO I",
+        "prerequisitoH": 1260,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CIV244",
+        "nome": "MECANICA DOS SOLOS I",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO074"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "CIV245",
+        "nome": "MECANICA DOS SOLOS II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "CIV244"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS110",
+        "nome": "FUNDAMENTOS DE OPTICA E QUANTICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS109"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS212",
+        "nome": "ESTRUTURA DA MATERIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS108",
+            "FIS109"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS214",
+        "nome": "MECANICA RACIONAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS106",
+            "MTM703"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "FIS215",
+        "nome": "MECANICA DO CONTINUO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "FIS107",
+            "FIS108",
+            "FIS214"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO021",
+        "nome": "GEOQUIMICA AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO048"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO023",
+        "nome": "GEOCRONOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO079"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO024",
+        "nome": "METODOS NUMERICOS EM GEOCIENCIAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "EST202",
+            "GEO078",
+            "GEO079"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO138",
+        "nome": "GEOCONSERVACAO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO055",
+            "GEO068"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO145",
+        "nome": "DIAGNOSTICO GEOHIDROLOGICO AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO179"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 15,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO173",
+        "nome": "PERFILAGEM DE POCOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO078"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO174",
+        "nome": "INTRODUCAO A ENGENHARIA DE PETROLEO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO067"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO180",
+        "nome": "ANALISE ESTRUTURAL DE TESTEMUNHOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO181"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO181",
+        "nome": "ANALISE ESTRUTURAL QUALITATIVA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO068"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO182",
+        "nome": "ESTAGIO DE MAPEAMENTO GEOLOGICO",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO066"
+        ],
+        "cargaHSemestral": 150,
+        "cargaHExtensionista": 0,
+        "cargaHA": 180,
+        "teoricas": 2,
+        "praticas": 8,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO183",
+        "nome": "ANALISE MICROESTRUTURAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO068",
+            "GEO071"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO184",
+        "nome": "SEGURANCA EM TRABALHO DE CAMPO",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO185",
+        "nome": "GEOLOGIA DE DEPOSITOS MINERAIS GEMOLOGICOS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO071"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO186",
+        "nome": "GEMOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO046"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO187",
+        "nome": "KIMBERLITO E MINERALOGIA DO DIAMANTE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO065"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO188",
+        "nome": "ANALISE DE BACIAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO079"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO189",
+        "nome": "GEOLOGIA HISTORICA E DO BRASIL II",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO079",
+            "GEO086"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO190",
+        "nome": "MICROPALEONTOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO049"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO191",
+        "nome": "PALINOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO049"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO192",
+        "nome": "ESPELEOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO048",
+            "GEO068"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO193",
+        "nome": "PALEOCLIMATOLOGIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO049"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO194",
+        "nome": "PROCESSAMENTO DIGITAL DE IMAGENS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO070"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO195",
+        "nome": "CRISTALOGRAFIA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO176"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO196",
+        "nome": "PROCESSOS GEOLOGICOS E MEIO AMBIENTE",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO038",
+            "GEO048"
+        ],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 1,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO197",
+        "nome": "GEOMORFOLOGIA TECTONICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO068",
+            "GEO072"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO199",
+        "nome": "GEOETICA",
+        "prerequisitoH": 2280,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO302",
+        "nome": "RECUPERACAO AMBIENTAL",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO087"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 3,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO314",
+        "nome": "INTERPRETACAO GEOFISICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO078"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 1,
+        "praticas": 3,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO315",
+        "nome": "MODELAGEM HIDROGEOLOGICA E GEOTECNICA",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO074"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 0,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "GEO494",
+        "nome": "MINERAIS E ROCHAS INDUSTRIAIS",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "GEO084"
+        ],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 15,
+        "cargaHA": 54,
+        "teoricas": 2,
+        "praticas": 1,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "LET966",
+        "nome": "INTRODUCAO A LIBRAS",
+        "prerequisitoH": null,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MIN022",
+        "nome": "RESPONSABILIDADE SOCIOAMBIENTAL E MINERACAO",
+        "prerequisitoH": 2100,
+        "prerequisitoD": [],
+        "cargaHSemestral": 45,
+        "cargaHExtensionista": 30,
+        "cargaHA": 54,
+        "teoricas": 1,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MIN023",
+        "nome": "ESTABILIDADE DE TALUDES",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 15,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MIN206",
+        "nome": "CARACTERIZACAO TECNOLOGICA DOS MINERIOS",
+        "prerequisitoH": 1260,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MIN238",
+        "nome": "ENGENHARIA DE PROCESSOS",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MIN256",
+        "nome": "PROCESSAMENTO DE MINERAIS I",
+        "prerequisitoH": 1260,
+        "prerequisitoD": [],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 2,
+        "praticas": 2,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "MTM112",
+        "nome": "INTRODUCAO A ALGEBRA LINEAR",
+        "prerequisitoH": null,
+        "prerequisitoD": [
+            "MTM700",
+            "MTM730"
+        ],
+        "cargaHSemestral": 60,
+        "cargaHExtensionista": 0,
+        "cargaHA": 72,
+        "teoricas": 4,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO242",
+        "nome": "ECONOMIA II",
+        "prerequisitoH": 1500,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    },
+    {
+        "codigo": "PRO246",
+        "nome": "ORGANIZACAO E ADMINISTRACAO II",
+        "prerequisitoH": 2400,
+        "prerequisitoD": [],
+        "cargaHSemestral": 30,
+        "cargaHExtensionista": 0,
+        "cargaHA": 36,
+        "teoricas": 2,
+        "praticas": 0,
+        "periodo": 0,
+        "feito": 0,
+        "obg": 0
+    }
+]
