@@ -1,0 +1,133 @@
+body {
+    justify-content: left;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%; /* Ensure full width */
+    overflow-x: hidden;
+
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    
+}
+
+select {
+    text-align: center;
+    text-align-last: center; /* For the selected option */
+    width: 20vw;
+    height: 3vh;
+    margin: 20 20px 0px 20px;
+}
+
+#elementosCima
+{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:10px
+
+}
+#Principal
+{
+    margin: 15px 20px 20px 50px;
+}
+
+#BarrasDeProgresso
+{
+    display: flex;
+    gap: 30px;
+}
+
+#SeletorDiv
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.SeletorCurso
+{
+    background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            z-index: 100;
+            width: 120px;
+            height: 30px;
+}
+
+.SeletorCurso:hover
+{
+    background: #4463ec;
+}
+
+.progressbar
+{
+    width: 100%;
+}
+
+.ProgressoDiv
+{
+    min-width: 300px;
+}
+
+/* ssssssssss*/  
+
+
+
+.minimal-footer {
+    border-top: 1px solid #e2e8f0;
+    padding: 15px 0;
+    margin-top: 40px;
+}
+
+.minimal-footer .footer {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: center;
+    color: #101011;
+}.simple-header {
+    background-color: #1f2023; /* Gray color */
+    color: white;
+    padding: 15px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    margin: 0;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+a
+{
+    color: rgb(0, 0, 0);
+}
